@@ -7,4 +7,5 @@ Chrome, 64 bit installation
 Useful Utilities
 * Network Bandwidth Monitoring
 	* https://www.softperfect.com/products/networx/
-	
+* Windows Software Package Installers (like yum, but for Windows)
+	* https://github.com/lvillani/just-install
