@@ -7,3 +7,12 @@ Determine URL that a local Git repository was originally cloned from
 * git remote show origin
 * git remote -v
 * git ls-remote --get-url 
+
+* When a checkout fails...
+You can inspect what was checked out with 'git status'  
+and retry the checkout with 'git checkout -f HEAD'  
+
+
+
+
+
