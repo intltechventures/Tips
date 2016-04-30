@@ -27,4 +27,5 @@ Windows Tips Command Line
 	* https://communities.intel.com/thread/99445
 	* [Uninstalling the Intel Graphics Driver and Intel Display HDMI/Audio Driver] (http://www.intel.com/content/www/us/en/support/graphics-drivers/000005598.htmlT
 	* https://downloadcenter.intel.com/
+	* https://forum-en.msi.com/index.php?topic=262980.11
 
