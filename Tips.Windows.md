@@ -15,5 +15,16 @@ Windows Tips Command Line
 	* https://www.reddit.com/r/Surface/comments/3qauuq/anyone_else_getting_a_weird_screen_flicker_with/
 	* ```dism.exe /Online /Disable-Feature:Microsoft-Hyper-V```
 	* https://forums.virtualbox.org/viewtopic.php?f=6&t=41258
-	* ``bcdedit /set hypervisorlaunchtype off```
+	* ```bcdedit /set hypervisorlaunchtype off```
 	* ```bcdedit /set hypervisorlaunchtype auto```
+	* https://www.youtube.com/watch?v=x8xwH-juaCg
+	* http://windows.microsoft.com/en-us/windows-10/troubleshoot-screen-flickering
+	* [Intel HD Graphics 530 driver causing screen flickering] (https://communities.intel.com/thread/91353?tstart=0)
+		* disabled the adapter and everything worked fine  
+		* "I didn't have the problem until I installed Visual Studio 2015 "
+		* "verything was fine until I installed Visual Studio 2015 again"
+	* https://communities.intel.com/message/379088#379088 
+	* https://communities.intel.com/thread/99445
+	* [Uninstalling the Intel Graphics Driver and Intel Display HDMI/Audio Driver] (http://www.intel.com/content/www/us/en/support/graphics-drivers/000005598.htmlT
+	* https://downloadcenter.intel.com/
+
