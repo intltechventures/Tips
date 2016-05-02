@@ -18,12 +18,14 @@ News Sources
 
 Linux Related Twitter Feeds
 * https://twitter.com/linux
-* 
+ 
 
 Linux Discussion Forums
 * https://www.reddit.com/r/linux/
 * http://unix.stackexchange.com/
 * http://stackoverflow.com/questions/tagged/linux
+* http://askubuntu.com/ 
+
 
 Linux Distributions
 * https://www.linuxmint.com/
