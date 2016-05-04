@@ -59,4 +59,6 @@ Learning Linux Resources
 * http://www.makeuseof.com/service/linux/
 * https://www.linux.com/tutorials
 * http://linuxcommand.org/
+* http://www.linuxfromscratch.org/
+	* http://www.linuxfromscratch.org/lfs/view/development/index.html
 
