@@ -14,6 +14,8 @@ Determine URL that a local Git repository was originally cloned from
 
 Tell Git to remember your credentials (on Windows)
 * ```git config --global credential.helper wincred```
+* Also see:
+	* http://stackoverflow.com/questions/5343068/is-there-a-way-to-skip-password-typing-when-using-https-on-github
 
 
 When a checkout fails...
