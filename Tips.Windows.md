@@ -11,6 +11,7 @@ Useful Utilities
 	* https://github.com/lvillani/just-install
 
 Windows Tips Command Line
+* https://msdn.microsoft.com/commandline
 * Disable Hyper-V (e.g. some software may have issues with a bug in the new Intel HD graphics drviers for the new Skylake processors)
 	* https://www.reddit.com/r/Surface/comments/3qauuq/anyone_else_getting_a_weird_screen_flicker_with/
 	* ```dism.exe /Online /Disable-Feature:Microsoft-Hyper-V```
