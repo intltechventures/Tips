@@ -62,3 +62,5 @@ Learning Linux Resources
 * http://www.linuxfromscratch.org/
 	* http://www.linuxfromscratch.org/lfs/view/development/index.html
 
+Helpful Linux Command References
+* https://files.fosswire.com/2007/08/fwunixref.pdf
