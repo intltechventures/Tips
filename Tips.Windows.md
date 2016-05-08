@@ -30,3 +30,9 @@ Windows Tips Command Line
 	* https://downloadcenter.intel.com/
 	* https://forum-en.msi.com/index.php?topic=262980.11
 
+
+DISM Commands
+* Enable Telnet Client
+	* ```dism /online /Enable-Feature /FeatureName:TelnetClient```
+
+
