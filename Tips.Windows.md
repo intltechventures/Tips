@@ -32,7 +32,26 @@ Windows Tips Command Line
 
 
 DISM Commands
+* https://technet.microsoft.com/en-us/library/hh825236.aspx
+* https://msdn.microsoft.com/en-us/windows/hardware/commercialize/manufacture/desktop/dism-operating-system-package-servicing-command-line-options
+* https://technet.microsoft.com/en-us/library/hh824822.aspx
+* List Available Features
+	* ```Dism /online /Get-Features```
 * Enable Telnet Client
 	* ```dism /online /Enable-Feature /FeatureName:TelnetClient```
+* Enable IIS
+	* ```dism /online /Online /Enable-Feature /FeatureName:IIS-WebServer /all```
 
+Change Product Key / Activate
+* ```slmgr.vbs -ipk 00000-00000-00000-00000-00000```
+* ```slmgr.vbs -ato```
+
+
+PowerShell Server Configuration Commands
+* http://geekswithblogs.net/Wchrabaszcz/archive/2015/07/01/server-2016--how-to-add-or-remove-windows-features.aspx
+* Add FTP Features
+	* ```Add-WindowsFeature -name Web-Ftp-Server```
+* Add .NET 4.5
+	* ```Add-WindowsFeature -name NET-Framework-45-Features```
+	* ```Add-WindowsFeature -name NET-Framework-45-Core```
 
