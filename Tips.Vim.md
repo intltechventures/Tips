@@ -20,4 +20,9 @@ Good Cheat Sheets for Vi/Vim Commands
 	* Add the following line to .vimrc file
 		* set nocompatible
 		* {or}
-		* set nocp
+		* set noc
+		
+Articles
+* http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen/
+* https://github.com/VundleVim/Vundle.vim
+
