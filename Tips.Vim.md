@@ -26,3 +26,7 @@ Articles
 * http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen/
 * https://github.com/VundleVim/Vundle.vim
 
+
+Tutorials
+* http://derekwyatt.org/vim/tutorials/index.html
+
