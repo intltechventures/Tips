@@ -14,6 +14,9 @@ Good Cheat Sheets for Vi/Vim Commands
 * http://www.math.ntu.edu.tw/~wwang/mtxcomp2010/cssd2011/download/vi_cheat%20sheet.pdf
 
 
+Plugin Resources
+* http://vimawesome.com/
+
 
 * Fix arrow keys that display A B C D on remote shell
 	* http://vim.wikia.com/wiki/Fix_arrow_keys_that_display_A_B_C_D_on_remote_shell
