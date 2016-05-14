@@ -28,7 +28,6 @@ Plugin Resources
 Articles
 * http://tammersaleh.com/posts/the-modern-vim-config-with-pathogen/
 * https://github.com/VundleVim/Vundle.vim
-* https://defuse.ca/vimrc.htm
 
 
 Tutorials
