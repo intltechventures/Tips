@@ -1,4 +1,4 @@
-
+Helpful Microsoft Windows Tips
 
 Chrome, 64 bit installation
 * https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64
@@ -54,4 +54,7 @@ PowerShell Server Configuration Commands
 * Add .NET 4.5
 	* ```Add-WindowsFeature -name NET-Framework-45-Features```
 	* ```Add-WindowsFeature -name NET-Framework-45-Core```
+
+WMIC Commands
+* ```wmic path softwarelicensingservice get OA3xOriginalProductKey```
 
