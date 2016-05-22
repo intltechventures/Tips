@@ -9,6 +9,10 @@ Useful Utilities
 	* https://www.softperfect.com/products/networx/
 * Windows Software Package Installers (like yum, but for Windows)
 	* https://github.com/lvillani/just-install
+* https://www.busybox.net/
+* https://www.cygwin.com/
+* http://www.mingw.org/
+
 
 Windows Tips Command Line
 * https://msdn.microsoft.com/commandline
