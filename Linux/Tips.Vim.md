@@ -33,4 +33,4 @@ Articles
 
 Tutorials
 * http://derekwyatt.org/vim/tutorials/index.html
-
+* http://howivim.com/
