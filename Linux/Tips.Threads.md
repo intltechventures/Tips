@@ -1,0 +1,3 @@
+
+Need to spend some time confirm how much of the this is still true...
+* http://homepage.ntlworld.com/jonathan.deboynepollard/FGA/linux-thread-problems.html
