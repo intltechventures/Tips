@@ -27,3 +27,8 @@ System Profiling & Monitoring Commands
 
 Who is logged in
 * ```w```
+* ```who```
+  * Currently logged in...
+  * ``` who | cut -d' ' -f1 | sort | uniq```
+* ```users```
+
