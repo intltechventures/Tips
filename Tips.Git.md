@@ -5,6 +5,9 @@ Git GUIs
 * https://www.gitkraken.com/
 
 
+Useful References
+* https://github.com/github/gitignore
+
 Determine URL that a local Git repository was originally cloned from
 * git config --get remote.origin.url
 * git remote show origin
