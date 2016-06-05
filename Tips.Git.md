@@ -8,6 +8,7 @@ Git GUIs
 Useful References
 * https://github.com/github/gitignore
 
+
 Determine URL that a local Git repository was originally cloned from
 * git config --get remote.origin.url
 * git remote show origin
@@ -29,5 +30,7 @@ and retry the checkout with
 
 
 
+Useful Git Articles
+* https://speakerdeck.com/yinghau76/the-elements-of-good-commit-messages
 
 
