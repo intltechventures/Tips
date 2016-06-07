@@ -3,6 +3,7 @@ Useful Resources
 * https://mosh.mit.edu/
 * http://linuxcommand.org/
 * https://en.wikipedia.org/wiki/Shell_script
+* https://google.github.io/styleguide/shell.xml
 
 
 MinGW
