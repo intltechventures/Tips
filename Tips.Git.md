@@ -32,7 +32,7 @@ and retry the checkout with
 
 Useful Git Articles
 * https://speakerdeck.com/yinghau76/the-elements-of-good-commit-messages
-
+* http://aosabook.org/en/git.html
 
 Useful Tools
 * https://text.sourcegraph.com/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension-9e279d2b98e9#.2ty5v8iou
