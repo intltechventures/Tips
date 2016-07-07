@@ -32,6 +32,7 @@ and retry the checkout with
 
 Useful Git Articles
 * https://speakerdeck.com/yinghau76/the-elements-of-good-commit-messages
+* [Angular.js git commit message guidelines] (https://github.com/angular/angular.js/blob/5afd54514d670d13783f51926d827c34223bb505/CONTRIBUTING.md#commit)
 * http://aosabook.org/en/git.html
 
 Useful Tools
