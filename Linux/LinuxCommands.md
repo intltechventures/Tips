@@ -1,5 +1,13 @@
 Linux Command Notes
 
+To update Linux:
+* e.g. Ubunut, Mint, Debian
+  * sudo apt-get update
+  * sudo apt-get upgrade
+* e.g. CentOS
+  * sudo -c 'yum update'
+
+
 To un-tar a file
 * ```tar xvfz```
 
