@@ -1,5 +1,7 @@
 Tips.VirtualBox.md
 
+References
+* https://www.virtualbox.org/manual/
 
 Shared Folders
 * See Section 4.3 of the VirtualBox documentation
