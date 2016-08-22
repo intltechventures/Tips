@@ -62,3 +62,7 @@ PowerShell Server Configuration Commands
 WMIC Commands
 * ```wmic path softwarelicensingservice get OA3xOriginalProductKey```
 
+
+Useful Articles
+* Windows 10
+  * http://www.windowscentral.com/how-disable-windows-10-update-delivery-optimization
