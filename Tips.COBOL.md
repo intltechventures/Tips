@@ -10,3 +10,7 @@ GnuCOBOL (formerly known as OpenCOBOL)
 * http://open-cobol.sourceforge.net/faq/GnuCOBOLFAQ.pdf
 * https://sourceforge.net/p/open-cobol/discussion/
 * http://opencobol.add1tocobol.com/OpenCOBOL%20Programmers%20Guide.pdf
+
+
+COBOL Standards
+
