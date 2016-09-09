@@ -1,5 +1,8 @@
 Tips.Git.md
 =========
+ 
+  
+https://git-scm.com/ 
 
 Git GUIs
 * https://www.gitkraken.com/
@@ -7,6 +10,7 @@ Git GUIs
 
 Useful References
 * https://github.com/github/gitignore
+* http://ohshitgit.com/
 
 
 Determine URL that a local Git repository was originally cloned from
