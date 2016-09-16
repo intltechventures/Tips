@@ -9,6 +9,12 @@ References
 
 
 Useful
+* https://developer.mozilla.org/en-US/docs/Web
+* https://developers.google.com/web/
+  * https://developers.google.com/web/fundamentals/
+* https://msdn.microsoft.com/en-us/library/ff921348.aspx
+  * https://msdn.microsoft.com/en-us/library/hh772960(v=vs.85).aspx
+  * https://msdn.microsoft.com/en-us/library/ms531209(v=vs.85).aspx
 * http://rabbit.eng.miami.edu/info/htmlchars.html
 * https://html.spec.whatwg.org/
 
