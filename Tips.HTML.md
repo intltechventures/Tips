@@ -12,6 +12,8 @@ Useful
 * https://developer.mozilla.org/en-US/docs/Web
 * https://developers.google.com/web/
   * https://developers.google.com/web/fundamentals/
+  * https://google.github.io/styleguide/htmlcssguide.xml
+* https://html.spec.whatwg.org/multipage/syntax.html#syntax-tag-omission
 * https://msdn.microsoft.com/en-us/library/ff921348.aspx
   * https://msdn.microsoft.com/en-us/library/hh772960(v=vs.85).aspx
   * https://msdn.microsoft.com/en-us/library/ms531209(v=vs.85).aspx
