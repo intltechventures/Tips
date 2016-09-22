@@ -33,6 +33,9 @@ RFCs
 Tutorials
 * http://www.w3schools.com/
 * http://learn.shayhowe.com/advanced-html-css/
+* https://www.impressivewebs.com/
+* https://css-tricks.com/
+
 
 
 HTML Editing Tools
@@ -42,5 +45,8 @@ HTML Editing Tools
 
 HTML Layout Frameworks
 * https://github.com/joshuagatcke/HTML-KickStart
+* https://github.com/murtaugh/HTML5-Reset
+* https://html5boilerplate.com/
+
 
 
