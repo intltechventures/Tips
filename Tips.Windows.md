@@ -63,6 +63,13 @@ WMIC Commands
 * ```wmic path softwarelicensingservice get OA3xOriginalProductKey```
 
 
+Screenshots showing only one screen:
+* Place your cursor on the screen from which you want a screenshot
+* Hit CTRL + ALT + PrtScn on your keyboard.
+* Hit CTRL + V to paste the screenshot in Word, 
+
+
+
 Useful Articles
 * Windows 10
   * http://www.windowscentral.com/how-disable-windows-10-update-delivery-optimization
