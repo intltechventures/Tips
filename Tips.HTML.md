@@ -35,6 +35,8 @@ Tutorials
 * http://learn.shayhowe.com/advanced-html-css/
 * https://www.impressivewebs.com/
 * https://css-tricks.com/
+* http://html5doctor.com/
+* http://diveintohtml5.info/
 
 
 
