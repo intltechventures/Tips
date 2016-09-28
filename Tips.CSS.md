@@ -19,3 +19,6 @@ CSS Frameworks Suggestions
 * http://beebom.com/best-front-end-frameworks-for-bootstrap-alternative/
 * http://www.99lime.com/elements/
 
+
+CSS Related Articles
+* http://www.creativebloq.com/features/22-stunning-examples-of-css3-animation
