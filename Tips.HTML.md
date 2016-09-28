@@ -19,6 +19,14 @@ Useful
   * https://msdn.microsoft.com/en-us/library/ms531209(v=vs.85).aspx
 * http://rabbit.eng.miami.edu/info/htmlchars.html
 * https://html.spec.whatwg.org/
+* https://paulirish.github.io/web-feature-availability/
+
+
+Typography & Fonts
+* https://fonts.google.com/
+* https://developers.google.com/fonts/
+* http://typecast.com/
+* https://femmebot.github.io/google-type/
 
 
 RFCs
