@@ -22,3 +22,7 @@ CSS Frameworks Suggestions
 
 CSS Related Articles
 * http://www.creativebloq.com/features/22-stunning-examples-of-css3-animation
+* http://razvancaliman.com/css-for-decoration/#/
+* https://medium.com/@iamjordanlittle/9-underutilized-features-in-css-90ced6ddbfe7#.31eqhr6sa
+* www.creativebloq.com/features/22-stunning-examples-of-css3-animation
+
