@@ -4,6 +4,7 @@ Useful Resources
 * http://linuxcommand.org/
 * https://en.wikipedia.org/wiki/Shell_script
 * https://google.github.io/styleguide/shell.xml
+* https://github.com/robbyrussell/oh-my-zsh
 
 
 MinGW
