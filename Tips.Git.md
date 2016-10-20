@@ -7,8 +7,9 @@ https://git-scm.com/
 Git GUIs
 * https://www.gitkraken.com/
 
+
 Git Code Review Tools
-* https://gerrit-review.googlesource.com/Documentation/index.html#_tutorial
+* https://gerrit-review.googlesource.com/Documentation/index.html
 
 
 Useful References
@@ -44,5 +45,10 @@ Useful Git Articles
 * https://www.maker.io/en/blogs/beginners-guide-to-github/7b8afaacf96e41338427620de5c8aa74
 
 
-Useful Tools
+Useful Supplemental Tools
 * https://text.sourcegraph.com/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension-9e279d2b98e9#.2ty5v8iou
+
+
+Interesting Github Projects
+* https://github.com/skywinder/github-changelog-generator
+
