@@ -68,6 +68,7 @@ Useful Linux Related Tools
 
 
 Learning Linux Resources 
+* http://lwn.net/Kernel/Index/
 * https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
 * http://www.makeuseof.com/service/linux/
 * https://www.linux.com/tutorials
