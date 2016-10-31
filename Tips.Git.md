@@ -15,6 +15,20 @@ Git Code Review Tools
 Useful References
 * https://github.com/github/gitignore
 * http://ohshitgit.com/
+* https://www.atlassian.com/git/tutorials
+  * https://www.atlassian.com/git/tutorials/using-branches/
+* http://rogerdudler.github.io/git-guide/
+* http://marklodato.github.io/visual-git-guide/index-en.html
+* http://classic.scottr.org/presentations/git-in-5-minutes/
+* https://www.digitalocean.com/community/tags/git?type=tutorials
+* http://gitready.com/
+* http://gitready.com/
+* http://gitready.com/
+* http://gitready.com/
+* http://gitready.com/
+* http://gitready.com/
+* http://gitready.com/
+* http://gitready.com/
 
 
 Determine URL that a local Git repository was originally cloned from
