@@ -1,6 +1,7 @@
 
 Graphic Editing Resources
 * http://www.piskelapp.com/
+  * https://github.com/juliandescottes/piskel
 * https://www.gimp.org/
 
 
@@ -14,3 +15,4 @@ Graphic/Image Resources
 Animated GIF Maker Resources
 * https://giphy.com/create/gifmaker
 * http://gifmaker.me/
+
