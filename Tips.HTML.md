@@ -59,4 +59,6 @@ HTML Layout Frameworks
 * https://html5boilerplate.com/
 
 
+CSS Articles
+* https://medium.com/javascript-inside/functional-css-from-a-pure-ui-perspective-bd04c8af4fdc#.cj2av8n1://medium.com/javascript-inside/functional-css-from-a-pure-ui-perspective-bd04c8af4fdc#.cj2av8n1g  
 
