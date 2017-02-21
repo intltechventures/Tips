@@ -57,6 +57,8 @@ Useful Git Articles
 * [Angular.js git commit message guidelines] (https://github.com/angular/angular.js/blob/5afd54514d670d13783f51926d827c34223bb505/CONTRIBUTING.md#commit)
 * http://aosabook.org/en/git.html
 * https://www.maker.io/en/blogs/beginners-guide-to-github/7b8afaacf96e41338427620de5c8aa74
+* http://www.infoworld.com/article/3169942/application-development/7-simple-commands-for-git-survival.html
+
 
 
 Useful Supplemental Tools
