@@ -61,6 +61,7 @@ Useful Git Articles
 
 Useful Supplemental Tools
 * https://text.sourcegraph.com/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension-9e279d2b98e9#.2ty5v8iou
+* https://github.com/skywinder/github-changelog-generator
 
 
 Interesting Github Projects
