@@ -69,7 +69,13 @@ Screenshots showing only one screen:
 * Hit CTRL + V to paste the screenshot in Word, 
 
 
+Long Paths > 260 characters
+* https://docs.python.org/3.6/using/windows.html 
+  * "Windows historically has limited path lengths to 260 characters. This meant that paths longer than this would not resolve and errors would result."
+  * "In the latest versions of Windows, this limitation can be expanded to approximately 32,000 characters. Your administrator will need to activate the “Enable Win32 long paths” group policy, or set the registry value HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem@LongPathsEnabled to 1."
+
 
 Useful Articles
 * Windows 10
   * http://www.windowscentral.com/how-disable-windows-10-update-delivery-optimization
+
