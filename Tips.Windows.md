@@ -78,4 +78,6 @@ Long Paths > 260 characters
 Useful Articles
 * Windows 10
   * http://www.windowscentral.com/how-disable-windows-10-update-delivery-optimization
+  * https://betanews.com/2017/04/07/windows-10-creators-update-changelog-nearly-everything-thats-new-or-improved/
+
 
