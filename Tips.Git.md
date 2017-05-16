@@ -50,6 +50,9 @@ and retry the checkout with
 * git checkout -f HEAD
 
 
+To fetch a file from another branch to the current one:  
+* git checkout branch_name -- filename 
+
 
 
 Useful Git Articles
