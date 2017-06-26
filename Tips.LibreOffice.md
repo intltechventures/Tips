@@ -9,6 +9,8 @@ References
 * https://wiki.documentfoundation.org/Main_Page
 * http://www.libreoffice.org/get-help/mailing-lists/
 
+
+
 Useful YouTube Tutorials
 * https://www.youtube.com/user/TheFrugalComputerGuy/videos
 
@@ -25,5 +27,5 @@ Useful Templates & Extensions
 
 Articles 
 * http://tex.stackexchange.com/questions/150503/how-to-insert-latex-formulas-in-libreoffice
-
+* https://wiki.documentfoundation.org/Feature_Comparison:_LibreOffice_-_Microsoft_Office
 
