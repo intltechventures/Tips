@@ -65,8 +65,9 @@ WMIC Commands
 
 Screenshots showing only one screen:
 * Place your cursor on the screen from which you want a screenshot
-* Hit CTRL + ALT + PrtScn on your keyboard.
-* Hit CTRL + V to paste the screenshot in Word, 
+* Hit CTRL + ALT + PrtScn on your keyboard - active dialog box or menu
+* ALT + PrtScn - screenshot of the active monitor on your desktop
+* Hit CTRL + V to paste the screenshot
 
 
 Long Paths > 260 characters
