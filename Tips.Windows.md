@@ -16,6 +16,7 @@ Useful Utilities
 
 Windows Tips Command Line
 * https://www.windowscentral.com/how-add-open-command-prompt-window-here-back-context-menu-windows-10
+* https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/
 * https://www.tenforums.com/tutorials/3288-open-command-prompt-windows-10-a
   * Option #5: " While you have a folder or drive open in File Explorer, type cmd into the address bar, and press Enter to open the command prompt in whatever folder or drive you have open"
 * https://msdn.microsoft.com/commandline
