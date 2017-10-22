@@ -49,6 +49,9 @@ DISM Commands
 	* ```dism /online /Enable-Feature /FeatureName:TelnetClient```
 * Enable IIS
 	* ```dism /online /Online /Enable-Feature /FeatureName:IIS-WebServer /all```
+* Enable Hyper-V
+  * ```DISM /Online /Enable-Feature /All /FeatureName:Microsoft-Hyper-V```
+
 
 Change Product Key / Activate
 * ```slmgr.vbs -ipk 00000-00000-00000-00000-00000```
