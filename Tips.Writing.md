@@ -10,3 +10,6 @@ Useful Books
 * [The Complete Manual of Typography: A Guide to Setting Perfect Type] (https://www.amazon.com/Complete-Manual-Typography-Setting-Perfect/dp/0321127307)
 
 
+Writing Tools
+* https://www.literatureandlatte.com/scrivener.php 
+
