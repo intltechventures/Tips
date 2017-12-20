@@ -14,6 +14,12 @@ Useful Utilities
 * http://www.mingw.org/
 
 
+
+Removing the MAX_PATH Limitation
+* Windows historically has limited path lengths to 260 characters. This meant that paths longer than this would not resolve and errors would result.
+* In the latest versions of Windows, this limitation can be expanded to approximately 32,000 characters. Your administrator will need to activate the “Enable Win32 long paths” group policy, or set the registry value HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem@LongPathsEnabled to 1.
+
+
 Windows Tips Command Line
 * https://www.windowscentral.com/how-add-open-command-prompt-window-here-back-context-menu-windows-10
 * https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/
