@@ -6,7 +6,8 @@ Exchange Resources
 * https://coinsquare.io/ 
   * Canada-based
 * https://shapeshift.io/
-
+* https://ripple.com/
+  * https://ripple.com/xrp/buy-xrp/
 
 
 Online Wallet Resources
