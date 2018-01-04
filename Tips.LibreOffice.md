@@ -25,6 +25,11 @@ Useful Templates & Extensions
 * http://extensions.libreoffice.org/extension-center/texmaths-1 
 
 
+Useful Macros
+* OpenOffice Export to JSON (tip: save new file before running macro)
+  * https://gist.github.com/aaronhoogstraten/49b9c0f5e4ac705ebe51
+
+
 Articles 
 * http://tex.stackexchange.com/questions/150503/how-to-insert-latex-formulas-in-libreoffice
 * https://wiki.documentfoundation.org/Feature_Comparison:_LibreOffice_-_Microsoft_Office
