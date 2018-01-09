@@ -22,13 +22,6 @@ Useful References
 * http://classic.scottr.org/presentations/git-in-5-minutes/
 * https://www.digitalocean.com/community/tags/git?type=tutorials
 * http://gitready.com/
-* http://gitready.com/
-* http://gitready.com/
-* http://gitready.com/
-* http://gitready.com/
-* http://gitready.com/
-* http://gitready.com/
-* http://gitready.com/
 
 
 Determine URL that a local Git repository was originally cloned from
@@ -47,13 +40,15 @@ Tell Git to remember your credentials (on Windows)
 When a checkout fails...
 You can inspect what was checked out with 'git status'  
 and retry the checkout with 
-* git checkout -f HEAD
+* ```git checkout -f HEAD```
 
 
 To fetch a file from another branch to the current one:  
-* git checkout branch_name -- filename 
+* ```git checkout branch_name -- filename```
 
 
+To Amend a Commit Message
+* ```Git commit --amend```
 
 Useful Git Articles
 * https://speakerdeck.com/yinghau76/the-elements-of-good-commit-messages
