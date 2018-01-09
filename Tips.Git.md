@@ -1,11 +1,14 @@
 Tips.Git.md
 =========
- 
-  
-https://git-scm.com/ 
 
-Git GUIs
-* https://www.gitkraken.com/
+References
+* https://help.github.com/
+
+
+Downloads
+* https://git-scm.com/ 
+* Git Desktop GUIs
+  * https://www.gitkraken.com/
 
 
 Git Code Review Tools
@@ -25,10 +28,10 @@ Useful References
 
 
 Determine URL that a local Git repository was originally cloned from
-* git config --get remote.origin.url
-* git remote show origin
-* git remote -v
-* git ls-remote --get-url 
+* ```git config --get remote.origin.url```
+* ```git remote show origin```
+* ```git remote -v```
+* ```git ls-remote --get-url```
 
 
 Tell Git to remember your credentials (on Windows)
