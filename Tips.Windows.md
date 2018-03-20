@@ -14,6 +14,10 @@ Useful Utilities
 * http://www.mingw.org/
 
 
+Windows Resource Checker 
+* Scans the integrity of all protected system files
+* From DOS Command, run '''sfc /SCANNOW''' or '''SFC /VERIFYONLY'''
+
 
 Removing the MAX_PATH Limitation
 * Windows historically has limited path lengths to 260 characters. This meant that paths longer than this would not resolve and errors would result.
