@@ -67,6 +67,11 @@ Useful Git Articles
 * https://www.maker.io/en/blogs/beginners-guide-to-github/7b8afaacf96e41338427620de5c8aa74
 * http://www.infoworld.com/article/3169942/application-development/7-simple-commands-for-git-survival.html
 * https://dev.to/gonedark/using-git-bisect
+* https://supercollider.github.io/development/git-cheat-sheet
+* https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+  * https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
+  * https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
+  * https://www.atlassian.com/git/tutorials/syncing
 
 
 
