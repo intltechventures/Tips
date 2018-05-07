@@ -53,6 +53,13 @@ To fetch a file from another branch to the current one:
 To Amend a Commit Message
 * ```Git commit --amend```
 
+To Check out the origin/master branch and then reset master branch there
+* ```git checkout -B master origin/master```
+
+
+
+
+
 Useful Git Articles
 * https://speakerdeck.com/yinghau76/the-elements-of-good-commit-messages
 * [Angular.js git commit message guidelines] (https://github.com/angular/angular.js/blob/5afd54514d670d13783f51926d827c34223bb505/CONTRIBUTING.md#commit)
