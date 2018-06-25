@@ -57,6 +57,9 @@ To Check out the origin/master branch and then reset master branch there
 * ```git checkout -B master origin/master```
 
 
+“top ten list” of most commited files
+* ```git log --pretty=format: --name-only | sort | uniq -c | sort -rg | head -10```
+
 
 
 
