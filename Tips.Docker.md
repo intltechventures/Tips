@@ -23,6 +23,11 @@ Container Commands:
   * ```docker container ls --all```
 * Remove a container
   * ```docker rm {container id}```
+* Stop a container
+  * ```docker container stop {continer id}```
+* Attach standard I/O to a running container
+  * ```docker container attach {container id}```
+
 
 
 Image Commands:
