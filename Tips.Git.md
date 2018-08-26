@@ -61,7 +61,8 @@ To Check out the origin/master branch and then reset master branch there
 * ```git log --pretty=format: --name-only | sort | uniq -c | sort -rg | head -10```
 
 
-
+Graphically show commits across different branches
+* ```git log --graph --oneline --decorate --date=relative --all```
 
 Useful Git Articles
 * https://speakerdeck.com/yinghau76/the-elements-of-good-commit-messages
