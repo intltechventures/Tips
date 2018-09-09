@@ -10,6 +10,7 @@ References
 
 Useful
 * https://developer.mozilla.org/en-US/docs/Web
+  * https://developer.mozilla.org/en-US/docs/Web/HTTP
 * https://developers.google.com/web/
   * https://developers.google.com/web/fundamentals/
   * https://google.github.io/styleguide/htmlcssguide.xml
