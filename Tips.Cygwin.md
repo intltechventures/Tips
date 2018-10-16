@@ -5,6 +5,7 @@ Cygwin Tips
 Documentation
 * https://cygwin.com/cygwin-ug-net.html
 * https://cygwin.com/cygwin-ug-net/cygwin-ug-net.html
+* https://ss64.com/bash/
 
 
 Cheat Sheets
