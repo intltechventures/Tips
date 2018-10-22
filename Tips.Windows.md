@@ -1,5 +1,11 @@
 Helpful Microsoft Windows Tips
 
+Keyboard Shortcuts:
+* Device Manager
+  * ```Click on Windows key + X```
+
+
+
 Chrome, 64 bit installation
 * https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64
 
@@ -78,6 +84,11 @@ PowerShell Server Configuration Commands
 
 WMIC Commands
 * ```wmic path softwarelicensingservice get OA3xOriginalProductKey```
+
+
+
+Diskmanager
+* Run ```diskmgmt.msc```
 
 
 Screenshots showing only one screen:
