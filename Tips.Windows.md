@@ -1,8 +1,31 @@
 Helpful Microsoft Windows Tips
+====
+
+Microsoft Windows 10 Resources
+* https://docs.microsoft.com/en-us/windows/windows-10/
+* https://www.microsoft.com/en-us/itpro/windows-10/release-information
+* https://support.microsoft.com/en-us/help/4018124/windows-10-update-history
+* https://www.microsoft.com/en-us/windowsforbusiness/compare
+* https://docs.microsoft.com/en-us/windows/whats-new/
+* https://social.technet.microsoft.com/Forums/en-US/home?category=Windows10ITPro
+* https://social.technet.microsoft.com/Forums/en-US/home?forum=win10itprogeneral
+
+
+Third-Party Forums
+* http://www.tomshardware.com/forum/forum-129.html
+* https://www.bleepingcomputer.com/forums/f/229/windows-10-support/
+* https://www.tenforums.com/
+* https://www.cnet.com/forums/windows-10/
+
+
+
 
 Keyboard Shortcuts:
-* Device Manager
-  * ```Click on Windows key + X```
+* Search
+  * ```{WIN Key} + S```
+* Right-Click Start Menu
+  * ```{WIN Key} + X```
+
 
 
 URI to Windows 10 control panels
@@ -52,6 +75,62 @@ URI to Windows 10 control panels
   * ms-settings:windowsinsider
   * ms-settings:windowsupdate
   * ms-settings:yourinfo
+* https://social.technet.microsoft.com/Forums/en-US/f377b4e1-237b-49a6-a43c-bcef803dce86/control-panel-gpo?forum=winserverGP
+  * Security and Maintenance - Microsoft.ActionCenter
+  * Administrative Tools - Microsoft.AdministrativeTools
+  * AutoPlay - Microsoft.AutoPlay
+  * Backup and Restore (Windows 7) - Microsoft.BackupAndRestore
+  * BitLocker Drive Encryption - Microsoft.BitLockerDriveEncryption
+  * Color Management - Microsoft.ColorManagement
+  * Credential Manager - Microsoft.CredentialManager
+  * Date and Time - Microsoft.DateAndTime
+  * Default Programs - Microsoft.DefaultPrograms
+  * Device Manager - Microsoft.DeviceManager
+  * Devices and Printers - Microsoft.DevicesAndPrinters
+  * Ease of Access Center - Microsoft.EaseOfAccessCenter
+  * File History - Microsoft.FileHistory
+  * File Explorer Options - Microsoft.FolderOptions
+  * Fonts - Microsoft.Fonts
+  * HomeGroup - Microsoft.HomeGroup
+  * Indexing Options - Microsoft.IndexingOptions
+  * Infrared - Microsoft.Infrared
+  * Internet Options - Microsoft.InternetOptions
+  * Keyboard - Microsoft.Keyboard
+  * Language - Microsoft.Language
+  * Display - Microsoft.LegacyDisplay
+  * Windows Mobility Center - Microsoft.MobilityCenter
+  * Mouse - Microsoft.Mouse
+  * Network and Sharing Center - Microsoft.NetworkAndSharingCenter
+  * Personalization - Microsoft.Personalization
+  * Phone and Modem - Microsoft.PhoneAndModem
+  * Windows To Go - Microsoft.PortableWorkspaceCreator
+  * Power Options - Microsoft.PowerOptions
+  * Programs and Features - Microsoft.ProgramsAndFeatures
+  * Recovery - Microsoft.Recovery
+  * Region - Microsoft.RegionAndLanguage
+  * RemoteApp and Desktop Connections - Microsoft.RemoteAppAndDesktopConnections
+  * Sound - Microsoft.Sound
+  * Speech Recognition - Microsoft.SpeechRecognition
+  * Storage Spaces - Microsoft.StorageSpaces
+  * Sync Center - Microsoft.SyncCenter
+  * System - Microsoft.System
+  * Taskbar and Navigation - Microsoft.Taskbar
+  * Troubleshooting - Microsoft.Troubleshooting
+  * User Accounts - Microsoft.UserAccounts
+  * Windows Defender - Microsoft.WindowsDefender
+  * Windows Firewall - Microsoft.WindowsFirewall
+  * Work Folders - Microsoft.WorkFolders 
+  * Security and Maintenance > Turn Messages on or off - Microsoft.ActionCenter /page Settings
+  * Security and Maintenance > Archived Messages - Microsoft.ActionCenter /page pageResponseArchive
+  * Security and Maintenance > Reliability Monitor - Microsoft.ActionCenter /page pageReliabilityView
+  * Security and Maintenance > Problem Reports - Microsoft.ActionCenter /page pageProblems
+  * Security and Maintenance > Problem Details - Microsoft.ActionCenter /page pageReportDetails
+  * Security and Maintenance > Message Details - Microsoft.ActionCenter /page pageDisplaySolution
+  * Security and Maintenance > Related Problems - Microsoft.ActionCenter /page pageSolutionDetails
+  * Security and Maintenance > Check for Solutions - Microsoft.ActionCenter /page pageSignoff
+  * Security and Maintenance > Problem Reporting Settings - Microsoft.ActionCenter /page pageSettings
+  * Security and Maintenance > Advanced Problem Reporting Settings - Microsoft.ActionCenter /page pageAdvSettings
+  * Security and Maintenance > Automatic Maintenance - Microsoft.ActionCenter /page MaintenanceSettings
 
 
 
