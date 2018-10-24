@@ -5,6 +5,55 @@ Keyboard Shortcuts:
   * ```Click on Windows key + X```
 
 
+URI to Windows 10 control panels
+* https://blogs.technet.microsoft.com/mniehaus/2017/04/13/hiding-pages-in-settings-with-windows-10-1703/ 
+  * ms-settings:about
+  * ms-settings:activation
+  * ms-settings:appsfeatures
+  * ms-settings:appsforwebsites
+  * ms-settings:backup
+  * ms-settings:batterysaver
+  * ms-settings:bluetooth
+  * ms-settings:colors
+  * ms-settings:cortana
+  * ms-settings:datausage
+  * ms-settings:dateandtime
+  * ms-settings:defaultapps
+  * ms-settings:developers
+  * ms-settings:deviceencryption
+  * ms-settings:display
+  * ms-settings:emailandaccounts
+  * ms-settings:extras
+  * ms-settings:findmydevice
+  * ms-settings:lockscreen
+  * ms-settings:maps
+  * ms-settings:network-ethernet
+  * ms-settings:network-mobilehotspot
+  * ms-settings:network-proxy
+  * ms-settings:network-vpn
+  * ms-settings:network-directaccess
+  * ms-settings:network-wifi
+  * ms-settings:notifications
+  * ms-settings:optionalfeatures
+  * ms-settings:powersleep
+  * ms-settings:printers
+  * ms-settings:privacy
+  * ms-settings:personalization
+  * ms-settings:recovery
+  * ms-settings:regionlanguage
+  * ms-settings:storagesense
+  * ms-settings:tabletmode
+  * ms-settings:taskbar
+  * ms-settings:themes
+  * ms-settings:troubleshoot
+  * ms-settings:typing
+  * ms-settings:usb
+  * ms-settings:windowsdefender
+  * ms-settings:windowsinsider
+  * ms-settings:windowsupdate
+  * ms-settings:yourinfo
+
+
 
 Chrome, 64 bit installation
 * https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64
