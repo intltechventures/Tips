@@ -46,6 +46,9 @@ Tutorials & Quick References
 * https://www.ccsf.edu/Pub/Fac/vi.html
 * http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf
 * https://kb.iu.edu/d/afdc
+
+
+
 |Command|Description|Command|Descriptoin|
 |----|----|----|----|
 | * ```ZZ```       | Exit, saving changes  | blah blah | blah blah}|
