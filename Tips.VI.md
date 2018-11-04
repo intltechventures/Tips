@@ -46,14 +46,15 @@ Tutorials & Quick References
 * https://www.ccsf.edu/Pub/Fac/vi.html
 * http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf
 * https://kb.iu.edu/d/afdc
-||Command||Description||Command||Descriptoin||
+|Command|Description|Command|Descriptoin|
+|----|----|----|----|
 | * ```ZZ```       | Exit, saving changes  | blah blah | blah blah}|
-  * ```Q```        || Enter ex mode                  
-  * ```<ESC>```     End of insert                  
-  * ```:<cmd>```    Execute ex command             
-  * ```:!<cmd>```   Shell command                
-  * ```^g```        Show filename/size             ```e,E```    End of worda
-  * ```^f```        Forward one screen             ```^h```     Erase last character
+|  * ```Q```       |  Enter ex mode         | blah | blah|
+| * ```<ESC>```    | End of insert          | blah | blah |        
+  * ```:<cmd>```   | Execute ex command     | blah | blah |        
+  * ```:!<cmd>```  | Shell command                | blah | blah |
+  * ```^g```       | Show filename/size           |  ```e,E```|  End of word|
+  * ```^f```        Forward one screen            | ```^h```  |   Erase last character|
   * ```^b```        Back one screen                ```^w```     Erase last word
   * ```^d```        Forward half screen            ```^?```     Interrupt
   * ```^u```        Backward half screen           ```~```      Toggle character case
