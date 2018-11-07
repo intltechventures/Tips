@@ -18,6 +18,9 @@ Third-Party Forums
 * https://www.cnet.com/forums/windows-10/
 
 
+Print Management
+* printmanagement.msc
+
 
 
 Keyboard Shortcuts:
