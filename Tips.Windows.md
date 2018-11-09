@@ -1,7 +1,7 @@
 Helpful Microsoft Windows Tips
 ====
 
-Microsoft Windows 10 Resources
+### Microsoft Windows 10 Resources
 * https://docs.microsoft.com/en-us/windows/windows-10/
 * https://www.microsoft.com/en-us/itpro/windows-10/release-information
 * https://support.microsoft.com/en-us/help/4018124/windows-10-update-history
@@ -11,11 +11,23 @@ Microsoft Windows 10 Resources
 * https://social.technet.microsoft.com/Forums/en-US/home?forum=win10itprogeneral
 
 
-Third-Party Forums
+### Third-Party Forums
 * http://www.tomshardware.com/forum/forum-129.html
 * https://www.bleepingcomputer.com/forums/f/229/windows-10-support/
 * https://www.tenforums.com/
 * https://www.cnet.com/forums/windows-10/
+
+
+
+### Clean-up/Fix Windows Image
+* Press Windows key + X
+* Click Command Prompt (Admin)
+* Type in at the prompt OR Copy and Paste these one at a time : (Hit enter after each)
+  * Dism /Online /Cleanup-Image /CheckHealth
+  * Dism /Online /Cleanup-Image /ScanHealth
+  * Dism /Online /Cleanup-Image /RestoreHealth
+
+
 
 
 Print Management
@@ -23,7 +35,7 @@ Print Management
 
 
 
-Keyboard Shortcuts:
+### Keyboard Shortcuts:
 * Search
   * ```{WIN Key} + S```
 * Right-Click Start Menu
@@ -31,7 +43,7 @@ Keyboard Shortcuts:
 
 
 
-URI to Windows 10 control panels
+### URI to Windows 10 control panels
 * https://blogs.technet.microsoft.com/mniehaus/2017/04/13/hiding-pages-in-settings-with-windows-10-1703/ 
   * ms-settings:about
   * ms-settings:activation
@@ -137,11 +149,11 @@ URI to Windows 10 control panels
 
 
 
-Chrome, 64 bit installation
+### Chrome, 64 bit installation
 * https://www.google.com/intl/en/chrome/browser/thankyou.html?platform=win64
 
 
-Useful Utilities
+### Useful Utilities
 * Network Bandwidth Monitoring
 	* https://www.softperfect.com/products/networx/
 * Windows Software Package Installers (like yum, but for Windows)
@@ -151,17 +163,17 @@ Useful Utilities
 * http://www.mingw.org/
 
 
-Windows Resource Checker 
+### Windows Resource Checker 
 * Scans the integrity of all protected system files
 * From DOS Command, run '''sfc /SCANNOW''' or '''SFC /VERIFYONLY'''
 
 
-Removing the MAX_PATH Limitation
+### Removing the MAX_PATH Limitation
 * Windows historically has limited path lengths to 260 characters. This meant that paths longer than this would not resolve and errors would result.
 * In the latest versions of Windows, this limitation can be expanded to approximately 32,000 characters. Your administrator will need to activate the “Enable Win32 long paths” group policy, or set the registry value HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem@LongPathsEnabled to 1.
 
 
-Windows Tips Command Line
+### Windows Tips Command Line
 * https://www.windowscentral.com/how-add-open-command-prompt-window-here-back-context-menu-windows-10
 * https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/
 * https://www.tenforums.com/tutorials/3288-open-command-prompt-windows-10-a
@@ -186,7 +198,7 @@ Windows Tips Command Line
 	* https://forum-en.msi.com/index.php?topic=262980.11
 
 
-DISM Commands
+### DISM Commands
 * https://technet.microsoft.com/en-us/library/hh825236.aspx
 * https://msdn.microsoft.com/en-us/windows/hardware/commercialize/manufacture/desktop/dism-operating-system-package-servicing-command-line-options
 * https://technet.microsoft.com/en-us/library/hh824822.aspx
@@ -202,10 +214,11 @@ DISM Commands
 
 Change Product Key / Activate
 * ```slmgr.vbs -ipk 00000-00000-00000-00000-00000```
+  * replace "0000-0000..." with your activation key
 * ```slmgr.vbs -ato```
 
 
-PowerShell Server Configuration Commands
+### PowerShell Server Configuration Commands
 * http://geekswithblogs.net/Wchrabaszcz/archive/2015/07/01/server-2016--how-to-add-or-remove-windows-features.aspx
 * Add FTP Features
 	* ```Add-WindowsFeature -name Web-Ftp-Server```
@@ -213,42 +226,42 @@ PowerShell Server Configuration Commands
 	* ```Add-WindowsFeature -name NET-Framework-45-Features```
 	* ```Add-WindowsFeature -name NET-Framework-45-Core```
 
-WMIC Commands
+### WMIC Commands
 * ```wmic path softwarelicensingservice get OA3xOriginalProductKey```
 
 
 
-Diskmanager
+### Diskmanager
 * Run ```diskmgmt.msc```
 
 
-Screenshots showing only one screen:
+### Screenshots showing only one screen:
 * Place your cursor on the screen from which you want a screenshot
 * Hit CTRL + ALT + PrtScn on your keyboard - active dialog box or menu
 * ALT + PrtScn - screenshot of the active monitor on your desktop
 * Hit CTRL + V to paste the screenshot
 
 
-Long Paths > 260 characters
+### Long Paths > 260 characters
 * https://docs.python.org/3.6/using/windows.html 
   * "Windows historically has limited path lengths to 260 characters. This meant that paths longer than this would not resolve and errors would result."
   * "In the latest versions of Windows, this limitation can be expanded to approximately 32,000 characters. Your administrator will need to activate the “Enable Win32 long paths” group policy, or set the registry value HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem@LongPathsEnabled to 1."
 
 
-Useful Articles
+### Useful Articles
 * Windows 10
   * http://www.windowscentral.com/how-disable-windows-10-update-delivery-optimization
   * https://betanews.com/2017/04/07/windows-10-creators-update-changelog-nearly-everything-thats-new-or-improved/
 
 
-Typing Special Characters
+### Typing Special Characters
 * https://www.howtogeek.com/howto/21187/insert-any-special-character-with-a-single-keystroke/
 * http://sites.psu.edu/symbolcodes/windows/codealt/
 * https://support.office.com/en-us/article/Keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35
 
 
 
-Device Manager
+### Device Manager
 * In View, there is an option to show Hidden Devices (!)
 
 
