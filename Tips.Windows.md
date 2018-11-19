@@ -28,9 +28,11 @@ Helpful Microsoft Windows Tips
   * Dism /Online /Cleanup-Image /RestoreHealth
 
 
+### Setting Environment Variables
+* ```setx {variable} {path | vlaue}```
 
 
-Print Management
+### Print Management
 * printmanagement.msc
 
 
