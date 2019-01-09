@@ -1,21 +1,25 @@
 Tips.Git.md
 =========
 
-References
+### References
 * https://help.github.com/
 
 
-Downloads
+### Git News
+* https://blog.github.com/changelog/
+
+
+### Downloads
 * https://git-scm.com/ 
 * Git Desktop GUIs
   * https://www.gitkraken.com/
 
 
-Git Code Review Tools
+### Git Code Review Tools
 * https://gerrit-review.googlesource.com/Documentation/index.html
 
 
-Useful References
+### Useful References
 * https://github.com/github/gitignore
 * http://ohshitgit.com/
 * https://www.atlassian.com/git/tutorials
@@ -25,6 +29,33 @@ Useful References
 * http://classic.scottr.org/presentations/git-in-5-minutes/
 * https://www.digitalocean.com/community/tags/git?type=tutorials
 * http://gitready.com/
+* https://github.com/k88hudson/git-flight-rules
+
+
+### Useful Git Articles
+* https://speakerdeck.com/yinghau76/the-elements-of-good-commit-messages
+* [Angular.js git commit message guidelines] (https://github.com/angular/angular.js/blob/5afd54514d670d13783f51926d827c34223bb505/CONTRIBUTING.md#commit)
+* http://aosabook.org/en/git.html
+* https://www.maker.io/en/blogs/beginners-guide-to-github/7b8afaacf96e41338427620de5c8aa74
+* http://www.infoworld.com/article/3169942/application-development/7-simple-commands-for-git-survival.html
+* https://dev.to/gonedark/using-git-bisect
+* https://supercollider.github.io/development/git-cheat-sheet
+* https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
+  * https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
+  * https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
+  * https://www.atlassian.com/git/tutorials/syncing
+
+
+### Useful Supplemental Tools
+* https://text.sourcegraph.com/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension-9e279d2b98e9#.2ty5v8iou
+* https://github.com/skywinder/github-changelog-generator
+
+
+### Interesting Github Projects
+* https://github.com/skywinder/github-changelog-generator
+
+
+### Git Command Examples   
 
 
 Determine URL that a local Git repository was originally cloned from
@@ -32,6 +63,7 @@ Determine URL that a local Git repository was originally cloned from
 * ```git remote show origin```
 * ```git remote -v```
 * ```git ls-remote --get-url```
+
 
 
 Tell Git to remember your credentials (on Windows)
@@ -64,26 +96,4 @@ To Check out the origin/master branch and then reset master branch there
 Graphically show commits across different branches
 * ```git log --graph --oneline --decorate --date=relative --all```
 
-Useful Git Articles
-* https://speakerdeck.com/yinghau76/the-elements-of-good-commit-messages
-* [Angular.js git commit message guidelines] (https://github.com/angular/angular.js/blob/5afd54514d670d13783f51926d827c34223bb505/CONTRIBUTING.md#commit)
-* http://aosabook.org/en/git.html
-* https://www.maker.io/en/blogs/beginners-guide-to-github/7b8afaacf96e41338427620de5c8aa74
-* http://www.infoworld.com/article/3169942/application-development/7-simple-commands-for-git-survival.html
-* https://dev.to/gonedark/using-git-bisect
-* https://supercollider.github.io/development/git-cheat-sheet
-* https://www.atlassian.com/git/tutorials/learn-git-with-bitbucket-cloud
-  * https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow
-  * https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
-  * https://www.atlassian.com/git/tutorials/syncing
-
-
-
-Useful Supplemental Tools
-* https://text.sourcegraph.com/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension-9e279d2b98e9#.2ty5v8iou
-* https://github.com/skywinder/github-changelog-generator
-
-
-Interesting Github Projects
-* https://github.com/skywinder/github-changelog-generator
 
