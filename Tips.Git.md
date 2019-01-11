@@ -1,8 +1,52 @@
 Tips.Git.md
-=========
+==== 
 
 ### References
 * https://help.github.com/
+* https://git-scm.com/docs/
+  * https://git-scm.com/docs/git-commit
+
+
+### Commit Message Standards
+* https://www.conventionalcommits.org/
+* [Angular Commit Message Standard](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
+* http://karma-runner.github.io/1.0/dev/git-commit-msg.html
+* https://gist.github.com/stephenparish/9941e89d80e2bc58a153
+
+
+### Commit Message Format
+* ```<type>(<scope>): <subject>```
+* ```<body>```
+* ```<footer>```
+
+
+### Example <type> values:
+|Type | Definition|
+|-----|-----------|
+|feat 		|(new feature for the user, not a new feature for build script)|
+|fix  		|(bug fix for the user, not a fix to a build script)|
+|docs 		|(changes to the documentation)|
+|style 		|(formatting, missing semi colons, etc; no production code change)|
+|refactor 	|(refactoring production code, eg. renaming a variable)|
+|test 		|(adding missing tests, refactoring tests; no production code change)|
+|chore 		|(updating grunt tasks etc; no production code change)|
+
+
+### Example Subject Line Standard Terminology
+|First Word | Meaning|
+|-----------|--------|
+|Add 		| Create a capability e.g. feature, test, dependency.|
+|Cut 		| Remove a capability e.g. feature, test, dependency.|
+|Fix 		| Fix an issue e.g. bug, typo, accident, misstatement.|
+|Bump 		| Increase the version of something e.g. dependency.|
+|Make 		| Change the build process, or tooling, or infra.|
+|Start 		| Begin doing something; e.g. create a feature flag.|
+|Stop 		| End doing something; e.g. remove a feature flag.|
+|Refactor   	| A code change that MUST be just a refactoring.|
+|Reformat 	| Refactor of formatting, e.g. omit whitespace.|
+|Optimize 	| Refactor of performance, e.g. speed up code.|
+|Document 	| Refactor of documentation, e.g. help files.|
+
 
 
 ### Git News
@@ -55,7 +99,8 @@ Tips.Git.md
 * https://github.com/skywinder/github-changelog-generator
 
 
-### Git Command Examples   
+Git Command Examples   
+====
 
 
 Determine URL that a local Git repository was originally cloned from
