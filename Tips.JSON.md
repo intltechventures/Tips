@@ -83,3 +83,6 @@ JSON Resources
   * https://datatracker.ietf.org/doc/draft-handrews-json-schema-hyperschema/
   * https://datatracker.ietf.org/doc/draft-handrews-relative-json-pointer/
 
+
+### Articles
+* 2019
