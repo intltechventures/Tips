@@ -1,5 +1,8 @@
 
-References
+Tips for HTML
+====
+
+### References
 * https://www.w3.org/
 * https://tools.ietf.org/
 * https://www.w3.org/TR/html4/references.html
@@ -8,7 +11,7 @@ References
 * https://www.w3.org/TR/html-markup/references.html
 
 
-Useful
+### Useful
 * https://developer.mozilla.org/en-US/docs/Web
   * https://developer.mozilla.org/en-US/docs/Web/HTTP
 * https://developers.google.com/web/
@@ -23,14 +26,14 @@ Useful
 * https://paulirish.github.io/web-feature-availability/
 
 
-Typography & Fonts
+### Typography & Fonts
 * https://fonts.google.com/
 * https://developers.google.com/fonts/
 * http://typecast.com/
 * https://femmebot.github.io/google-type/
 
 
-RFCs
+### RFCs
 * RFC-2616 Hypertext Transfer Protocol -- HTTP/1.1
   * https://tools.ietf.org/html/rfc2616
 * RFC-2854 The 'text/html' media type
@@ -39,7 +42,7 @@ RFCs
   * https://tools.ietf.org/html/rfc7540
 
 
-Tutorials
+### Tutorials
 * http://www.w3schools.com/
 * http://learn.shayhowe.com/advanced-html-css/
 * https://www.impressivewebs.com/
@@ -49,20 +52,26 @@ Tutorials
 * http://html5demos.com/
 
 
-HTML Editing Tools
+### HTML Editing Tools
 * https://www.google.com/webdesigner/
 
 
 
-HTML Layout Frameworks
+### HTML Layout Frameworks
 * https://github.com/joshuagatcke/HTML-KickStart
 * https://github.com/murtaugh/HTML5-Reset
 * https://html5boilerplate.com/
 
 
-CSS Articles
+### CSS Articles
 * https://medium.com/javascript-inside/functional-css-from-a-pure-ui-perspective-bd04c8af4fdc#.cj2av8n1://medium.com/javascript-inside/functional-css-from-a-pure-ui-perspective-bd04c8af4fdc#.cj2av8n1g  
 
 
 * https://www.chromestatus.com/metrics/feature/popularity
 
+
+
+
+### HTML subtopics
+* Favicon
+  * https://en.wikipedia.org/wiki/Favicon
