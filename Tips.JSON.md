@@ -86,3 +86,5 @@ JSON Resources
 
 ### Articles
 * 2019
+* 2018
+
