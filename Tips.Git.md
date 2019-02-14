@@ -26,7 +26,12 @@ Tips.Git.md
 * https://github.com/soundasleep/statgit2
 * https://github.com/hoxu/gitstats 
   * http://gitstats.sourceforge.net/
-
+* https://github.com/youknowone/gitstat
+  * "Simple, static gitstat generator. "
+  * https://github.com/edunham/orglog
+    * "a log of every commit made to a GitHub organization's non-fork repositories"
+    * "The gitstat tool turns git log output into pretty graphs and statistics about new contributors and contribution types."
+    * "orglog is designed to concatenate the git logs of all source repositories (not forks) in a given organization."
 
 
 ### Git Tutorial Resources
