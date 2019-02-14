@@ -1,10 +1,37 @@
 Tips.Git.md
 ==== 
 
+
 ### References
 * https://help.github.com/
 * https://git-scm.com/docs/
   * https://git-scm.com/docs/git-commit
+
+
+### Git Statistics, Visualization 
+* http://ghv.artzub.com/
+* https://github.com/Haacked/SeeGit
+* https://www.benlcollins.com/javascript/creating-a-dynamic-d3-visualization-from-the-github-api/
+  * https://www.benlcollins.com/githubviz/githubviz.html
+* http://www.redotheweb.com/CodeFlower/
+  * https://github.com/fzaninotto/CodeFlower
+* https://gource.io/
+  * https://github.com/acaudwell/Gource
+    * [Youtube: Gource in Bloom](https://www.youtube.com/watch?feature=player_embedded&v=NjUuAuBcoqs)
+* CodeSwarm
+  * https://code.google.com/archive/p/codeswarm/
+    * https://github.com/rictic/code_swarm
+  * [Youtube: Code Swarm for git](https://www.youtube.com/watch?v=2NUKH_BFKig) 
+    * http://derwiki.tumblr.com/post/43181171352/creating-a-codeswarm-for-your-git-repository
+* https://github.com/soundasleep/statgit2
+* https://github.com/hoxu/gitstats 
+  * http://gitstats.sourceforge.net/
+
+
+
+### Git Tutorial Resources
+* https://onlywei.github.io/explain-git-with-d3/
+
 
 
 ### Commit Message Standards
