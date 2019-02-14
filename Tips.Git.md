@@ -32,6 +32,7 @@ Tips.Git.md
     * "a log of every commit made to a GitHub organization's non-fork repositories"
     * "The gitstat tool turns git log output into pretty graphs and statistics about new contributors and contribution types."
     * "orglog is designed to concatenate the git logs of all source repositories (not forks) in a given organization."
+* https://github.com/mo/git-source-metrics
 
 
 ### Git Tutorial Resources
