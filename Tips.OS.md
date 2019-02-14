@@ -1,5 +1,7 @@
-OPerating System (OS) Notes
+Operating System (OS) Notes
+====
 
-Resources
+
+### Resources
 * http://wiki.osdev.org/Main_Page
 
