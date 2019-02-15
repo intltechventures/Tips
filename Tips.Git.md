@@ -8,6 +8,24 @@ Tips.Git.md
   * https://git-scm.com/docs/git-commit
 
 
+### Useful References
+* https://github.com/github/gitignore
+* http://ohshitgit.com/
+* https://www.atlassian.com/git/tutorials
+  * https://www.atlassian.com/git/tutorials/using-branches/
+* http://rogerdudler.github.io/git-guide/
+* http://marklodato.github.io/visual-git-guide/index-en.html
+* http://classic.scottr.org/presentations/git-in-5-minutes/
+* https://www.digitalocean.com/community/tags/git?type=tutorials
+* http://gitready.com/
+* https://github.com/k88hudson/git-flight-rules
+  
+
+### Git Tutorial Resources
+* https://onlywei.github.io/explain-git-with-d3/
+* https://ohshitgit.com/
+
+
 ### Git Statistics, Visualization 
 * http://ghv.artzub.com/
 * https://github.com/Haacked/SeeGit
@@ -33,10 +51,6 @@ Tips.Git.md
     * "The gitstat tool turns git log output into pretty graphs and statistics about new contributors and contribution types."
     * "orglog is designed to concatenate the git logs of all source repositories (not forks) in a given organization."
 * https://github.com/mo/git-source-metrics
-
-
-### Git Tutorial Resources
-* https://onlywei.github.io/explain-git-with-d3/
 
 
 
@@ -75,7 +89,7 @@ Tips.Git.md
 |Make 		| Change the build process, or tooling, or infra.|
 |Start 		| Begin doing something; e.g. create a feature flag.|
 |Stop 		| End doing something; e.g. remove a feature flag.|
-|Refactor   	| A code change that MUST be just a refactoring.|
+|Refactor   | A code change that MUST be just a refactoring.|
 |Reformat 	| Refactor of formatting, e.g. omit whitespace.|
 |Optimize 	| Refactor of performance, e.g. speed up code.|
 |Document 	| Refactor of documentation, e.g. help files.|
@@ -94,19 +108,6 @@ Tips.Git.md
 
 ### Git Code Review Tools
 * https://gerrit-review.googlesource.com/Documentation/index.html
-
-
-### Useful References
-* https://github.com/github/gitignore
-* http://ohshitgit.com/
-* https://www.atlassian.com/git/tutorials
-  * https://www.atlassian.com/git/tutorials/using-branches/
-* http://rogerdudler.github.io/git-guide/
-* http://marklodato.github.io/visual-git-guide/index-en.html
-* http://classic.scottr.org/presentations/git-in-5-minutes/
-* https://www.digitalocean.com/community/tags/git?type=tutorials
-* http://gitready.com/
-* https://github.com/k88hudson/git-flight-rules
 
 
 ### Useful Git Articles
