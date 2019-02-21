@@ -175,7 +175,16 @@ Helpful Microsoft Windows Tips
 * In the latest versions of Windows, this limitation can be expanded to approximately 32,000 characters. Your administrator will need to activate the “Enable Win32 long paths” group policy, or set the registry value HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem@LongPathsEnabled to 1.
 
 
-### Windows Tips Command Line
+### cscript
+* https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cscript
+
+
+### wscript
+* https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/wscript
+
+
+### Windows Command Line Tips
+* https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
 * https://www.windowscentral.com/how-add-open-command-prompt-window-here-back-context-menu-windows-10
 * https://www.howtogeek.com/235101/10-ways-to-open-the-command-prompt-in-windows-10/
 * https://www.tenforums.com/tutorials/3288-open-command-prompt-windows-10-a
