@@ -44,6 +44,9 @@ Helpful Microsoft Windows Tips
   * ```{WIN Key} + X```
 
 
+### Retrieving Original Windows Product Key
+* ```wmic path SoftwareLicensingService get OA3xOriginalProductKey```
+
 
 ### URI to Windows 10 control panels
 * https://blogs.technet.microsoft.com/mniehaus/2017/04/13/hiding-pages-in-settings-with-windows-10-1703/ 
