@@ -8,6 +8,7 @@ Tips.Git.md
   * https://git-scm.com/docs/git-commit
 
 
+
 ### Useful References
 * https://github.com/github/gitignore
 * http://ohshitgit.com/
@@ -19,7 +20,11 @@ Tips.Git.md
 * https://www.digitalocean.com/community/tags/git?type=tutorials
 * http://gitready.com/
 * https://github.com/k88hudson/git-flight-rules
-  
+* github Markdown
+  * https://guides.github.com/features/mastering-markdown/
+  * https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
 
 ### Git Tutorial Resources
 * https://onlywei.github.io/explain-git-with-d3/
