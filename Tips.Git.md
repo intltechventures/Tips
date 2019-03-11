@@ -142,6 +142,21 @@ Git Command Examples
 ====
 
 
+* Determine size of a git repository:
+  * ```$ git count-objects -vH```
+  * Example output:
+    *```count: 1594```
+    * ```size: 1.05 MiB```
+    * ```in-pack: 0```
+    * ```packs: 0```
+    * ```size-pack: 0 bytes```
+    * ```prune-packable: 0```
+    * ```garbage: 0```
+    * ```size-garbage: 0 bytes```
+
+
+
+
 Determine URL that a local Git repository was originally cloned from
 * ```git config --get remote.origin.url```
 * ```git remote show origin```
