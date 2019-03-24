@@ -65,6 +65,7 @@ Tips.Git.md
 * [Angular Commit Message Standard](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
 * http://karma-runner.github.io/1.0/dev/git-commit-msg.html
 * https://gist.github.com/stephenparish/9941e89d80e2bc58a153
+* https://chris.beams.io/posts/git-commit/
 
 
 ### Commit Message Format
