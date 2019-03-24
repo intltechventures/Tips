@@ -29,6 +29,7 @@ Tips.Git.md
 ### Git Tutorial Resources
 * https://onlywei.github.io/explain-git-with-d3/
 * https://ohshitgit.com/
+* https://devguide.python.org/gitbootcamp/
 
 
 ### Git Statistics, Visualization 
