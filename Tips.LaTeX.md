@@ -61,8 +61,11 @@
 - Atom
   + https://atom.io/packages/latex
 
+
 - Notepad++
   + https://tex.stackexchange.com/questions/43984/using-notepad-with-miktex-on-windows
+    * http://nimal.info/blog/2010/latex-on-windows-with-miktex-and-notepad/
+
 
 - Eclipse
   + https://marketplace.eclipse.org/category/free-tagging/latex
