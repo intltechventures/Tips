@@ -44,11 +44,15 @@
 
 
 
-## Keyboard Shortcuts:
+## Frequently Used Keyboard Shortcuts:
+- File Explorer
+  + ```{WIN Key} + E```
 - Search
   + ```{WIN Key} + S```
 - Right-Click Start Menu
   + ```{WIN Key} + X```
+-  System Properties 
+  + ```WIN Key + Pause```
 
 
 ## Retrieving Original Windows Product Key
