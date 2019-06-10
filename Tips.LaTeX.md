@@ -79,5 +79,6 @@
     * Baruch Even: "I am unlikely to continue development on ChkTeX, I'll mostly do bug fixes. If anyone is interested in stepping up and improve ChkTeX further it will be appreciated."
 
 
-
+- Visual Studio Code, Marketplace Plugin
+  + https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
 
