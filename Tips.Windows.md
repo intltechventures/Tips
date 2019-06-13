@@ -16,22 +16,29 @@
 - https://www.tenforums.com/
 - https://www.cnet.com/forums/windows-10/
 
-
+## Windows System Information Commands
+- Command Window: ```systeminfo```
+  + ```systeminfo | findstr /c:"OS Name"```
+  + ```systeminfo | findstr /c:"OS Version"```
+  + ```systeminfo | findstr /c:"System Type"``` 
+  + ```systeminfo | findstr /c:"Total Physical Memory"``` 
+  + ```wmic cpu get name``` 
+  + ```ipconfig | findstr IPv4```
+  + ```ipconfig | findstr IPv6```
+  + ```ipconfig /all```
 
 ## Clean-up/Fix Windows Image
 - Press Windows key + X
 - Click Command Prompt (Admin)
 - Type in at the prompt OR Copy and Paste these one at a time : (Hit enter after each)
-  + Dism /Online /Cleanup-Image /CheckHealth
-  + Dism /Online /Cleanup-Image /ScanHealth
-  + Dism /Online /Cleanup-Image /RestoreHealth
+  + ```Dism /Online /Cleanup-Image /CheckHealth```
+  + ```Dism /Online /Cleanup-Image /ScanHealth```
+  + ```Dism /Online /Cleanup-Image /RestoreHealth```
 
 
 
 ## Windows Subsystem for Linux (WSL)
 - [Windows Subsystem for Linux Installation Guide for Windows 10](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
-
-
 
 
 
