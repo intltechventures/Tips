@@ -22,10 +22,18 @@
   + ```systeminfo | findstr /c:"OS Version"```
   + ```systeminfo | findstr /c:"System Type"``` 
   + ```systeminfo | findstr /c:"Total Physical Memory"``` 
+
+- WMIC Commands
   + ```wmic cpu get name``` 
+
+- Ipconfig Commands:
   + ```ipconfig | findstr IPv4```
   + ```ipconfig | findstr IPv6```
   + ```ipconfig /all```
+
+- Tasklist Command: (e.g. find the PID for a running program/service)
+  + ```tasklist /fi "imagename eq firefox.exe"```
+
 
 ## Clean-up/Fix Windows Image
 - Press Windows key + X
