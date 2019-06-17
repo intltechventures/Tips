@@ -16,6 +16,8 @@
 - https://www.tenforums.com/
 - https://www.cnet.com/forums/windows-10/
 
+
+
 ## Windows System Information Commands
 - Command Window: ```systeminfo```
   + ```systeminfo | findstr /c:"OS Name"```
@@ -43,6 +45,17 @@
   + ```Dism /Online /Cleanup-Image /ScanHealth```
   + ```Dism /Online /Cleanup-Image /RestoreHealth```
 
+
+
+## Take Admin Ownership of a File (e.g. to replace a corrupted file, discovered via running the /SFC command)
+- Open an Admin CMD window 
+- Take owenrship of the file:
+  + ```takeown /f Path_And_File_Name```
+    * Example: ```takeown /f C:\windows\system32\jscript.dll```
+- Grant administrators full access to the
+  + ```icacls Path_And_File_Name /GRANT ADMINISTRATORS:F```
+    * Example: ``` icacls C:\windows\system32\jscript.dll /grant administrators:F```
+- Replace the corrupted system file with a known good copy of the file.
 
 
 ## Windows Subsystem for Linux (WSL)
