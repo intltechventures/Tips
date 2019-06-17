@@ -1,6 +1,6 @@
-Tips/Tips.Linux.md
+# Tips/LInux/Tips.Linux.md
 
-News Sources
+## News Sources
 * https://www.kernel.org/
 * http://www.linux.org
 * http://www.linuxfoundation.org/
@@ -16,18 +16,18 @@ News Sources
 * http://www.linuxcentral.com/
 * http://www.phoronix.com/scan.php?page=phoronix_articles
 
-Linux Related Twitter Feeds
+## Linux Related Twitter Feeds
 * https://twitter.com/linux
  
 
-Linux Discussion Forums
+## Linux Discussion Forums
 * https://www.reddit.com/r/linux/
 * http://unix.stackexchange.com/
 * http://stackoverflow.com/questions/tagged/linux
 * http://askubuntu.com/ 
 
 
-Linux Distributions
+## Linux Distributions
 * https://www.linuxmint.com/
 * https://www.centos.org/
 * http://www.ubuntu.com/
@@ -44,30 +44,30 @@ Linux Distributions
 
 
 
-Tools for Creating Distriuctions
+## Tools for Creating Distriuctions
 * https://www.yoctoproject.org/
 
 
 
-Docker Related
+## Docker Related
 * https://docs.docker.com/linux/
 
-Interesting Linux News
+## Interesting Linux News
 * https://blogs.msdn.microsoft.com/wsl/2016/04/22/windows-subsystem-for-linux-overview/
 * http://playground.arduino.cc/Learning/Linux
 
 
-Useful Github Resources
+## Useful Github Resources
 * https://github.com/torvalds/linux
 * https://github.com/jordansissel/fpm
 
 
-Useful Linux Related Tools
+## Useful Linux Related Tools
 * https://www.busybox.net/
 
 
 
-Learning Linux Resources 
+## Learning Linux Resources 
 * http://lwn.net/Kernel/Index/
 * https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0
 * http://www.makeuseof.com/service/linux/
@@ -75,6 +75,8 @@ Learning Linux Resources
 * http://linuxcommand.org/
 * http://www.linuxfromscratch.org/
 	* http://www.linuxfromscratch.org/lfs/view/development/index.html
+* https://www.linuxbabe.com/
 
-Helpful Linux Command References
+
+## Helpful Linux Command References
 * https://files.fosswire.com/2007/08/fwunixref.pdf
