@@ -15,6 +15,10 @@
 
 - https://www.iconfinder.com/search/?q=database
 
+- https://streamlineicons.com/
+  + 30K icons, (commercial product)
+
+
 - Smashing Magzine
   + https://www.smashingmagazine.com/2015/07/freebie-smashicons-icon-set/
   + https://www.smashingmagazine.com/2016/07/freebie-summer-icon-set-40-icons/
