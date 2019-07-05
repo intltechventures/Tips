@@ -32,6 +32,13 @@
   + ```curl -X POST https://www.example.com/echo -H "Content-Type: application/json" -d '{"foo":"bar","hello":"there"}'```
 
 
+- Retrieve just the HTTP Status Code
+  + ```curl -s -w "%{http_code}" https://httpbin.org/get```
+
+- Execute the command in verbose mode
+  + ```curl -v https://httpbin.org/get```
+
+
 
 ## Articles
 
