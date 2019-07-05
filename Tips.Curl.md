@@ -20,6 +20,8 @@
 - https://www.howtoforge.com/linux-curl-command/
 - https://linoxide.com/tools/how-to-use-curl-command/
 - https://edoceo.com/cli/curl
+- https://coderwall.com/t/curl/popular
+- https://stackoverflow.com/search?q=CURL+examples
 
 
 
