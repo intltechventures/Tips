@@ -24,7 +24,12 @@
 
 
 ## Exemplars
-- ```curl -X GET http://www.example.com/order/{iD}  -H 
+- GET, for JSON data
+  + ```curl -X GET http://www.example.com/order/{id}  -H "Content-Type: application/json"```
+
+
+- POST, with JSON data
+  + ```curl -X POST https://www.example.com/echo -H "Content-Type: application/json" -d '{"foo":"bar","hello":"there"}'```
 
 
 
@@ -40,7 +45,7 @@
 
 
 ## Reference
-__curl command syntax (from Windows 10 bundled version__
+__curl command syntax (from Windows 10, bundled version)__
 ```
 curl 7.55.1 (Windows) libcurl/7.55.1 WinSSL
 Release-Date: [unreleased]
