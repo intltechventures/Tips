@@ -21,8 +21,8 @@
   + Semantic version information (i.e. ```Version x.y.x```)
   + Author name
   + Author email
-  + Author organization <optional>
-  + Author URL (or organization URL) <optiona>
+  + Author organization [optional]
+  + Author URL (or organization URL) [optional]
   + Github URL to script location
   + Description
 
@@ -34,11 +34,11 @@
 - For Example:
   + ```JOB_START```
   + ```JOB_SETUP```
-  + ```STEP_{NAME}```
+  + ```STEP_[NAME]```
     * For example:
       * ```STEP_VALIDATE_PARAMS```
       * ```STEP_CHECK_DRIVE```
       * ```STEP_CHECK_FILE```
-      * ```STEP_BEGIN_{PROCESS NAME}
+      * ```STEP_BEGIN_[PROCESS NAME]
   + ```JOB_ABORT```
   + ```JOB_END```
