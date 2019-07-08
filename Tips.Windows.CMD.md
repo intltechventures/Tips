@@ -39,6 +39,6 @@
       * ```STEP_VALIDATE_PARAMS```
       * ```STEP_CHECK_DRIVE```
       * ```STEP_CHECK_FILE```
-      * ```STEP_BEGIN_[PROCESS NAME]
+      * ```STEP_BEGIN_[PROCESS NAME]```
   + ```JOB_ABORT```
   + ```JOB_END```
