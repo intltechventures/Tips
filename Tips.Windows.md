@@ -10,6 +10,10 @@
 - https://social.technet.microsoft.com/Forums/en-US/home?forum=win10itprogeneral
 
 
+## News Resources
+- https://www.windowslatest.com/
+
+
 ## Third-Party Forums
 - http://www.tomshardware.com/forum/forum-129.html
 - https://www.bleepingcomputer.com/forums/f/229/windows-10-support/
