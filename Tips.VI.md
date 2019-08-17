@@ -3,7 +3,7 @@
 ## Tutorials
 - VIM
   + https://danielmiessler.com/study/vim/
-
+  + http://learnvimscriptthehardway.stevelosh.com/
 
 
 ## Commands:
