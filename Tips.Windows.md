@@ -10,6 +10,17 @@
 - https://social.technet.microsoft.com/Forums/en-US/home?forum=win10itprogeneral
 
 
+## Windows Version Notes
+- Every Windows10 release has FIVE different names, one has SIX. Make sure you have these all memorized for each one.
+- Example: 
+  + Codename (Redstone 5)
+  + Codeletter (RS5)
+  + Build (17763)
+  + Version (1809)
+  + Name (October 2018 Update)
+  + Disbiguator (November re-release)
+
+
 ## News Resources
 - https://www.windowslatest.com/
 
