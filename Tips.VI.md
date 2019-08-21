@@ -50,6 +50,10 @@
     * ```:set nonumber | nonu```
 
 
+- Copy Selection, with Mouse
+  + In the vim command line to enable copy/paste of text selected using the mouse.
+  + ```:set mouse&```
+
 
 - Replace text
   + http://vim.wikia.com/wiki/Search_and_replace
