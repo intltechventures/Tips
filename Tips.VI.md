@@ -7,6 +7,11 @@
 
 
 ## Commands:
+
+- VIM Version
+  + ```vim --version```
+
+
 - Input Mode
   + ```[ESC]```       - to end inut
   + ```.```           - repeat last editing command
@@ -35,6 +40,14 @@
   + ```:redo```       - redo 
   + ```:w```          - write
   + ```:wq```         - write & quit
+
+
+
+- Line Numbering
+  + ON
+    * ```:set number | nu'''
+  + OFF
+    * ```:set nonumber | nonu```
 
 
 
