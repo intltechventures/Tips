@@ -2,6 +2,8 @@
 
 
 ## Reference
+- https://www.vim.org/
+
 - https://vimhelp.org/
   + https://vimhelp.org/quickref.txt.html
   + https://vimhelp.org/usr_toc.txt.html
@@ -13,6 +15,7 @@
 
 ## Tutorials
 - https://danielmiessler.com/study/vim/
+
 - http://learnvimscriptthehardway.stevelosh.com/
 
 
@@ -21,6 +24,7 @@
 - VIM Version
   + ```vim --version```
 
+### Navigation
 
 - Navigating
   + Move to top of screen (Higher)
