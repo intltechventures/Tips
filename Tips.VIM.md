@@ -1,15 +1,48 @@
 # VI/VIM Tips
 
+
+## Reference
+- https://vimhelp.org/
+  + https://vimhelp.org/quickref.txt.html
+  + https://vimhelp.org/usr_toc.txt.html
+  + https://vimhelp.org/#reference_toc
+  + https://vimhelp.org/vim_faq.txt.html
+
+- https://vim.fandom.com/wiki/Vim_Tips_Wiki
+
+
 ## Tutorials
-- VIM
-  + https://danielmiessler.com/study/vim/
-  + http://learnvimscriptthehardway.stevelosh.com/
+- https://danielmiessler.com/study/vim/
+- http://learnvimscriptthehardway.stevelosh.com/
 
 
 ## Commands:
 
 - VIM Version
   + ```vim --version```
+
+
+- Navigating
+  + Move to top of screen (Higher)
+    * ```shft-h```
+  + Move to Middle of screen
+    * ```shift-m```
+  + Move to Lower of screen 
+    * ```shift-l```
+
+- What Line # am I on?
+  + ```:set number```
+
+- GOTO Line #
+  + ```<esc>```
+  + ```#```
+  + ```shift-g```
+
+- GOTO Line #
+  + ```:#```
+
+- GOTO Last Line
+  + ```shift-g```
 
 
 - Input Mode
