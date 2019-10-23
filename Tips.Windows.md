@@ -332,6 +332,10 @@
 - In View, there is an option to show Hidden Devices (!)
 
 
+## Microphone
+- if you click on the microphone icon at the bottom of your screen and then subsequently turn OFF that toggle 'Microphone access to this device' ... the ONLY WAY to get access to your microphone again is to open PRIVACY SETTINGS  ( DO NOT go to 'sound settings' or 'microphone' or 'speech', these take you to places that WILL NOT re-enable your microphone ).  Go to Privacy Settings, click the CHANGE button and turn that toggle back
+
+
 
 ## RAID Configuration
 - https://www.tomshardware.com/news/how-to-set-up-raid-windows-10,36783.html
