@@ -82,3 +82,14 @@
 - Visual Studio Code, Marketplace Plugin
   + https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop
 
+
+
+## Suggested Books
+
+- The LaTeX Companion (Tools and Techniques for Computer Typesetting) 2nd Edition
+  + https://www.amazon.com/gp/product/0201362996/
+
+
+- Guide to LaTeX (4th Edition) 4th Edition
+  + https://www.amazon.com/gp/product/0321173856/
+
