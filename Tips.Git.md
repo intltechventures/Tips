@@ -2,11 +2,18 @@
 # Tips.Git.md
 
 
+## Useful Tools
+
+- https://github.com/explore
+
+
 ## References
+
 - https://help.github.com/
 - https://git-scm.com/docs/
   + https://git-scm.com/docs/git-commit
 
+- https://guides.github.com/features/mastering-markdown/
 
 
 ## Useful References
@@ -84,6 +91,7 @@
 
 
 ## Commit Message Standards
+
 - https://www.conventionalcommits.org/
 
 - [Angular Commit Message Standard](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
@@ -96,12 +104,14 @@
 
 
 ## Commit Message Format
+
 - ```<type>(<scope>): <subject>```
 - ```<body>```
 - ```<footer>```
 
 
 ## Example <type> values:
+
 |Type | Definition|
 |-----|-----------|
 |feat 		|(new feature for the user, not a new feature for build script)|
@@ -114,6 +124,7 @@
 
 
 ## Example Subject Line Standard Terminology
+
 |First Word | Meaning|
 |-----------|--------|
 |Add 		| Create a capability e.g. feature, test, dependency.|
@@ -131,10 +142,12 @@
 
 
 ## Git News
+
 - https://blog.github.com/changelog/
 
 
 ## Downloads
+
 - https://git-scm.com/ 
 
 - Git Desktop GUIs
@@ -142,10 +155,12 @@
 
 
 ## Git Code Review Tools
+
 - https://gerrit-review.googlesource.com/Documentation/index.html
 
 
 ## Useful Git Articles
+
 - https://speakerdeck.com/yinghau76/the-elements-of-good-commit-messages
 
 - [Angular.js git commit message guidelines] (https://github.com/angular/angular.js/blob/5afd54514d670d13783f51926d827c34223bb505/CONTRIBUTING.md#commit)
@@ -167,12 +182,17 @@
 
 
 ## Useful Supplemental Tools
+
 - https://text.sourcegraph.com/browse-github-like-an-ide-with-the-sourcegraph-chrome-extension-9e279d2b98e9#.2ty5v8iou
 
 - https://github.com/skywinder/github-changelog-generator
 
+- https://github.com/nirvdrum/svn2git
+  * Ruby tool for importing existing svn projects into git. 
+
 
 ## Interesting Github Projects
+
 - https://github.com/skywinder/github-changelog-generator
 
 
