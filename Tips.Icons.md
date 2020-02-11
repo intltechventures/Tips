@@ -13,11 +13,23 @@
   + 61 categories
   + "More than 1,831,400 free icons for both personal & commercial use."
 
-- https://www.iconfinder.com/search/?q=database
+- https://www.iconfinder.com/
+  + https://www.iconfinder.com/search/?q=database
 
 - https://streamlineicons.com/
   + 30K icons, (commercial product)
 
+- https://publicdomainvectors.org/en/free-flat-vector-icons
+
+- https://thenounproject.com/
+
+- https://github.com/apancik/public-domain-icons
+
+- https://github.com/apancik/public-domain-icons
+
+- http://clipart-library.com/public-domain-icons.html
+
+- https://www.aiga.org/symbol-signs/
 
 - Smashing Magzine
   + https://www.smashingmagazine.com/2015/07/freebie-smashicons-icon-set/
