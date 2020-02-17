@@ -1,9 +1,12 @@
-This is more of a curiosity - but in case it is of interest to others...
+
+# COBOL Tips and Resources
+
+- iThis is more of a curiosity - but in case it is of interest to others...
 
 I've installed this on a Mint 17.x Linux VM (running in Oracle VirtualBox) 
 ...and confirmed that yes, you can compile and execute COBOL programs using it
 
-GnuCOBOL (formerly known as OpenCOBOL) 
+## GnuCOBOL (formerly known as OpenCOBOL) 
 * http://opencobol.add1tocobol.com/
 * http://open-cobol.sourceforge.net/
 * http://open-cobol.sourceforge.net/faq/index.html
@@ -12,5 +15,12 @@ GnuCOBOL (formerly known as OpenCOBOL)
 * http://opencobol.add1tocobol.com/OpenCOBOL%20Programmers%20Guide.pdf
 
 
-COBOL Standards
+## COBOL Standards
+
+
+## Interesting COBOL News Stories
+
+### 2020
+- https://www.techradar.com/news/cobol-remains-an-important-programming-priority
+
 
