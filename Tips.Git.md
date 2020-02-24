@@ -200,6 +200,11 @@
 
 # Git Command Examples   
 
+- Configure Git on Windows for long path
+  + ```git config core.longpaths true```
+
+
+
 - Determine size of a git repository:
   + ```$ git count-objects -vH```
   + Example output:
