@@ -52,6 +52,28 @@
   + ```tasklist /fi "imagename eq firefox.exe"```
 
 
+
+## Increase Available Disk Space
+- https://support.microsoft.com/en-us/help/12425/windows-10-free-up-drive-space
+- https://www.windowscentral.com/best-ways-to-free-hard-drive-space-windows-10
+
+- Search for ```Disk Cleanup``` - run it
+  + Delete System Restore and Shadow Copies using Disk Cleanup
+  + Click the More Options tab.
+  + Under the "System Restore and Shadow Copies" section, click the Clean up button. 
+
+- Removing unused languages
+  + Open Settings.
+  + Click on Time & Language.
+  + Click on Language.
+  + Select the language that you no longer use.
+  + Click the Remove button.
+
+- https://www.pcmag.com/how-to/how-to-free-up-hard-disk-space-on-windows-10
+
+
+
+
 ## Clean-up/Fix Windows Image
 - Press Windows key + X
 - Click Command Prompt (Admin)
@@ -230,6 +252,14 @@
 ## Removing the MAX_PATH Limitation
 - Windows historically has limited path lengths to 260 characters. This meant that paths longer than this would not resolve and errors would result.
 - In the latest versions of Windows, this limitation can be expanded to approximately 32,000 characters. Your administrator will need to activate the “Enable Win32 long paths” group policy, or set the registry value HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem@LongPathsEnabled to 1.
+
+- https://superuser.com/questions/1119883/windows-10-enable-ntfs-long-paths-policy-option-missing
+- https://eocloud.cloudferro.com/knowledgebase.php?action=displayarticle&id=135
+  + Open Group Policy Editor (open shell window and type ```gpedit.msc``` and hit ```<Enter>``` key).
+  + Navigate to the following directory: Local Computer Policy > Computer Configuration > Administrative Templates > System > Filesystem
+  + Double-click Enable NTFS long paths option
+  + Choose ```<Enabled>```
+  + Click ```<Apply>``` and <OK>
 
 
 ## cscript
