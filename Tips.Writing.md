@@ -50,7 +50,7 @@
 - https://www.DailyScienceFiction.com
 - Dean Wesley Smith
 - Economist Propero Blog
-- https://www.FormsOfAddress.info
+- http://www.FormsOfAddress.info
 - https://www.FourthEstate.org
 - Freelancer's Survival Guide
 - https://www.freelancewritinggigs.com
