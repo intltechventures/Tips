@@ -71,12 +71,12 @@
 - https://www.myidentifiers.com
 - https://www.OnlineWritingWorkshop.com
 - Publishing A Book
-- https://www.PunctuationMatter.com
+- http://www.PunctuationMatters.com 
 - Robert J. Sawyer
 - Screenwriting Tips...You Hack
 - https://www.SFWA.org
 - https://www.SimplyScripts.com
-- https://www.SmashWord.com
+- http://www.SmashWord.com
 - Temple Univ. Writing Center
 - https://www.ThemeOfAbsence.com
 - https://www.training.npr.org
@@ -87,7 +87,6 @@
 - Who Dares Wins Publishing
 - https://www.WordCounter.net
 - https://www.WordHippo.com
-- https://www.Writer.ly
 - https://www.WritersOfTheFuture.com
 - https://writing.stackexchange.com/
 - https://www.writingclasses.com
