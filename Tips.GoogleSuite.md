@@ -25,5 +25,5 @@
 
 - [G Suite Help Center](https://support.google.com/a/users/?hl=en#topic=9296556)
 
-
+- https://teachercenter.withgoogle.com/training
 
