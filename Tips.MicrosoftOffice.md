@@ -16,6 +16,18 @@
 - Printing a single envelope 
   * https://support.office.com/en-us/article/Create-and-print-a-single-envelope-b766aa84-5b97-4f63-b03f-451d2fb3640f
 
+### Keyboard Shortcuts
+- https://support.office.com/en-us/article/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2
+
+- Select All Document Content
+  + ```CTL+A```
+
+- Select Zoom
+  + ```ALT+W, Q```
+
+- Single Character for ellipses ("...")
+  + ```ALT+CTL+.```
+
 
 
 ## Visio
