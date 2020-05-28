@@ -332,6 +332,11 @@
 - Run ```diskmgmt.msc```
 
 
+## Taskmanager
+- https://www.reddit.com/r/techsupport/comments/gqb915/i_wrote_task_manager_and_i_just_remembered/
+
+
+
 ## Screenshots showing only one screen:
 - Place your cursor on the screen from which you want a screenshot
 - Hit CTRL + ALT + PrtScn on your keyboard - active dialog box or menu
