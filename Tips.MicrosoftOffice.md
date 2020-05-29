@@ -1,6 +1,12 @@
 
 # Microsoft Office Tips
 
+## Outlook
+- To apply a consistent View choice to all folders (e.g. disable the ```Reading Pane```)
+  + click "Change View"
+  + Click "Apply Current View to Other Mail Folders" (choose the folders you want to be affected in the Apply View dialog box"
+
+
 
 ## Word
 - http://www.shaunakelly.com/
@@ -15,6 +21,7 @@
 
 - Printing a single envelope 
   * https://support.office.com/en-us/article/Create-and-print-a-single-envelope-b766aa84-5b97-4f63-b03f-451d2fb3640f
+
 
 ### Keyboard Shortcuts
 - https://support.office.com/en-us/article/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2
