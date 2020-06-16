@@ -23,6 +23,12 @@
   * https://support.office.com/en-us/article/Create-and-print-a-single-envelope-b766aa84-5b97-4f63-b03f-451d2fb3640f
 
 
+- field SEQ
+  + https://support.microsoft.com/en-us/office/field-codes-seq-sequence-field-062a387b-dfc9-4ef8-8235-29ee113d59be?ui=en-US&rs=en-US&ad=US
+
+
+
+
 ### Keyboard Shortcuts
 - https://support.office.com/en-us/article/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2
 
@@ -35,6 +41,17 @@
 - Single Character for ellipses ("...")
   + ```ALT+CTL+.```
 
+
+- New Field Code
+  + ```CTL+F9```
+
+- Toggle Field Codes
+  + ```ALT+F9```
+
+- Create New Building Block
+  + First, Toggle Field Codes to display
+  + Second, select a Field Code
+  + ```ALT+F3```
 
 
 ## Visio
