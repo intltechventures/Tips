@@ -1,6 +1,23 @@
 
 # Microsoft Office Tips
 
+## Suggested Books
+- Suggest starting with one or more of these:
+  + [Office 365 All-in-One For Dummies, First Edition](https://www.amazon.com/Office-All-One-Dummies-Computer/dp/1119576245/) - June 2019
+  + [Office 2019 All-in-One For Dummies](https://www.amazon.com/Office-2019-All-One-Dummies/dp/1119513278/) - October 2018
+  + [PowerShell for Office 365: Automate Office 365 administrative tasks](https://www.amazon.com/PowerShell-Office-365-Automate-administrative/dp/1787127990/) - July 2017
+  + [Essential Office 365 Second Edition: The Illustrated Guide to using Microsoft Office](https://www.amazon.com/Essential-Office-365-Second-Illustrated/dp/1911174657/) - May 2018
+  + [Excel 2019 Bible 1st Edition](https://www.amazon.com/Excel-2019-Bible-Michael-Alexander-dp-1119514789/dp/1119514789) - October 2018 
+- these may also be of possible use:
+  + [New Perspectives Microsoft Office 365 & Word 2016: Comprehensive 1st Edition](https://www.amazon.com/Perspectives-Microsoft-Office-Word-2016/dp/1305880978)
+
+
+## Quick Tutorials
+- https://lawyerist.com/technology/microsoft-office/word/
+
+
+
+
 ## Outlook
 - To apply a consistent View choice to all folders (e.g. disable the ```Reading Pane```)
   + click "Change View"
@@ -23,8 +40,12 @@
   * https://support.office.com/en-us/article/Create-and-print-a-single-envelope-b766aa84-5b97-4f63-b03f-451d2fb3640f
 
 
-- field SEQ
+- field ```SEQ```
   + https://support.microsoft.com/en-us/office/field-codes-seq-sequence-field-062a387b-dfc9-4ef8-8235-29ee113d59be?ui=en-US&rs=en-US&ad=US
+  + https://gregmaxey.com/word_tip_pages/seq_field_numbering.html#:~:text=To%20create%20a%20numbered%20sequence,then%20%22toggle%20field%20codes.%22
+  + https://bettersolutions.com/word/fields/seq-field.htm
+  + https://smallbusiness.chron.com/increment-counter-word-46903.html
+  + https://answers.microsoft.com/en-us/msoffice/forum/all/inserting-seq-field-codes/1c042886-689b-47db-997c-28e9ba9076dc
 
 
 
