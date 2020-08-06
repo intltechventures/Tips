@@ -13,6 +13,13 @@
 - https://www.windows-commandline.com/
 
 
+## ipconfig commands
+- flush DNS cache:
+  + ```ipconfig /flushdns```
+
+
+
+
 ## Suggested Batch Script  Coding Conventions
 
 - NOTE: These are just suggested conventions - having a consistent approach will help others find things - and makes locating sections for possible reuse, easier.
