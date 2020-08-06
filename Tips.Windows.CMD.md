@@ -14,6 +14,9 @@
 
 
 ## ipconfig commands
+- display DNS cache:
+  + ```ipconfig /displaydns```
+
 - flush DNS cache:
   + ```ipconfig /flushdns```
 
