@@ -86,16 +86,16 @@
 - Small Caps
   + ```Ctrl + Shift + K```
   
- - Insert Footnote
+- Insert Footnote
   + ```Alt + Ctrl + F```
   
- - Find & Replace
+- Find & Replace
   + ```Ctrl + H```
   
- - En-dash: 
+- En-dash: 
   + ```Ctrl + Minus sign``` (on numeric keypad)
   
- - Em-dash: 
+- Em-dash: 
    + ```Alt + Ctrl + Minus sign``` (on numeric keypad)
 
 - §: 
