@@ -53,6 +53,16 @@
 ### Keyboard Shortcuts
 - https://support.office.com/en-us/article/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2
 
+- Bold
+  + ```CTL+B```
+  
+- Italic 
+  + ```CTL+I```
+  
+  
+- Underline
+  + ```CTL+U```
+  
 - Select All Document Content
   + ```CTL+A```
 
@@ -61,7 +71,6 @@
 
 - Single Character for ellipses ("...")
   + ```ALT+CTL+.```
-
 
 - New Field Code
   + ```CTL+F9```
@@ -73,6 +82,24 @@
   + First, Toggle Field Codes to display
   + Second, select a Field Code
   + ```ALT+F3```
+
+- Small Caps
+  + ```Ctrl + Shift + K```
+  
+ - Insert Footnote
+  + ```Alt + Ctrl + F```
+  
+ - Find & Replace
+  + ```Ctrl + H```
+  
+ - En-dash: 
+  + ```Ctrl + Minus sign``` (on numeric keypad)
+  
+ - Em-dash: 
+   + ```Alt + Ctrl + Minus sign``` (on numeric keypad)
+
+- §: 
+	+ ```00A7, then Alt + X```
 
 
 ## Visio
