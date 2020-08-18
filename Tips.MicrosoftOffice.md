@@ -48,6 +48,7 @@
   + https://answers.microsoft.com/en-us/msoffice/forum/all/inserting-seq-field-codes/1c042886-689b-47db-997c-28e9ba9076dc
 
 
+- [How to add a bibliography to a Word document](https://www.techrepublic.com/article/how-to-add-a-bibliography-to-a-word-document/)
 
 
 ### Keyboard Shortcuts
