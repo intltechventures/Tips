@@ -52,6 +52,57 @@
 
 
 ### Keyboard Shortcuts
+
+- [Keyboard shortcuts for international characters](https://support.microsoft.com/en-us/office/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35)
+  + CTRL+` (ACCENT GRAVE), the letter
+    * à, è, ì, ò, ù
+    * À, È, Ì, Ò, Ù 
+  + CTRL+' (APOSTROPHE), the letter
+    * á, é, í, ó, ú, ý
+    * Á, É, Í, Ó, Ú, Ý
+  + CTRL+SHIFT+^ (CARET), the letter
+    * â, ê, î, ô, û
+    * Â, Ê, Î, Ô, Û
+  + CTRL+SHIFT+~ (TILDE), the letter
+    * ã, ñ, õ
+    * Ã, Ñ, Õ
+  + CTRL+SHIFT+: (COLON), the letter
+    * ä, ë, ï, ö, ü, ÿ
+    * Ä, Ë, Ï, Ö, Ü, Ÿ
+  + CTRL+SHIFT+@, a or A
+    * å
+    * Å
+  + CTRL+SHIFT+&, a or A
+    * æ
+    * Æ
+  + CTRL+SHIFT+&, o or O
+    * œ
+    * Œ
+  + CTRL+, (COMMA), c or C
+    * ç
+    * Ç
+  + CTRL+' (APOSTROPHE), d or D
+    * ð
+    * Ð
+  + CTRL+/, o or O
+    * ø
+    * Ø
+  + ALT+CTRL+SHIFT+?
+    * ¿
+  + ALT+CTRL+SHIFT+!
+    * ¡
+  + CTRL+SHIFT+&, s
+    * 
+  + The character code, ALT+X
+    * The Unicode character for the specified Unicode (hexadecimal) character code 
+    * For example, to insert the euro currency symbol Euro currency symbol, press 20AC, and then hold down the ALT key and press X.
+  + ALT+the character code (on the numeric keypad)
+    * The ANSI character for the specified ANSI (decimal) character code 
+    * (Make sure that NUM LOCK is on before you type the character code.)
+    * For example, to insert the euro currency symbol, hold down the ALT key and press 0128 on the numeric keypad.
+
+
+
 - https://support.office.com/en-us/article/keyboard-shortcuts-in-word-95ef89dd-7142-4b50-afb2-f762f663ceb2
 
 - Bold
