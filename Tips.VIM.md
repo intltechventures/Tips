@@ -108,50 +108,50 @@
 
 
 
-|Command|Description|
-|----+----+----+----|
-| ```ZZ```       | Exit, saving changes         |
-| ```Q```        | Enter ex mode                | 
-| ```<ESC>```    | End of insert                | 
-| ```e,E```      | End of word|                 | 
-| ```^h```       | Erase last character|        |
-| ```^w```       | Erase last word              | 
-| ```:<cmd>```   | Execute ex command           | 
-| ```:!<cmd>```  | Shell command                |
-| ```^g```       | Show filename/size           |  
-| ```^f```       | Forward one screen           |
-| ```^b```       | Back one screen              | 
-| ```^d```       | Forward half screen          |
-| ```^u```       | Backward half screen           ```~```      Toggle character case
-| ```<x>G```     | Go to line <x>                 ```a```      Append after
-|  ```^?```      | Interrupt                    | 
-| ```/<x>```     | Search forward for <x>         ```i,I```    Insert before
-| ```?<x>```     | Search backward for <x>        ```A```      Append at end of line
-| ```n```        | Repeat last search             ```o```      Open line below
-| ```N```        | Reverse last search            ```O```      Open line above
-| ```]]```       | Next section/function          ```r```      Replace character
-| ```[[```       | Previous section/function      ```R```      Replace characters
-| ```%```        | Find matching () { or }        ```d```      Delete
-| ```^l```       | Redraw screen                  ```dd```     Delete line
-| ```^r```       | Refresh screen                 ```c```      Change
-| ```z<CR>```    | Current line at top            ```y```      Yank lines to buffer
-| ```z-```       | Current line at bottom         ```C```      Change rest of line
-| ```^e```       | Scroll down one line           ```D ``     Delete rest of line
-| ```^y```       | Scroll up one line             ```s```      Substitute character
-| ``             | Previous context               ```S```      Substitute lines
-| ```H```        | Home window line               ```J```      Join lines
-| ```L```        | Last window line               ```x```      Delete after
-| ```M```        | Middle window line             ```X```      Delete before
-| ```+```        | Next line                      ```Y```      Yank current line
-| ```hjkl```     | Cursor movement:               ```p```      Put back lines
-| ``` ```        | left/down/up/right             ```P```      Put before
-| ```0```        | Beginning of line              ```<<```     Shift line left
-| ```$```        | End of line                    ```>>```     Shift line right
-| ```f<x>```     | Find <x> forward               ```u```      Undo last change
-| ```F<x>```     | Find <x> backward              ```U```      Restore current line
-| ```t<x>```     | Up to <x> forward
-| ```T<x>```     | Back up to <x>
-| ```<x>|```     | Go to column <x>
-| ```w,W```      | Forward one word
-| ``` b,B```     | Back one word
+|Command|Description|Command|Description|
+|----------------+------------------------------+-------------+-----------------------|
+| ```ZZ```       | Exit, saving changes         |             |                       |
+| ```Q```        | Enter ex mode                |             |                       |
+| ```<ESC>```    | End of insert                |             |                       |
+| ```e,E```      | End of word|                 |             |                       |
+| ```^h```       | Erase last character|        |             |                       |
+| ```^w```       | Erase last word              |             |                       |
+| ```:<cmd>```   | Execute ex command           |             |                       |
+| ```:!<cmd>```  | Shell command                |             |                       |
+| ```^g```       | Show filename/size           |             |                       |
+| ```^f```       | Forward one screen           |             |                       |
+| ```^b```       | Back one screen              |             |                       |
+| ```^d```       | Forward half screen          |             |                       |
+| ```^u```       | Backward half screen         |  ```~```    | Toggle character case |
+| ```<x>G```     | Go to line <x>               |  ```a```    | Append after          |
+|  ```^?```      | Interrupt                    |             |                       |
+| ```/<x>```     | Search forward for <x>       |  ```i,I```  | Insert before         |
+| ```?<x>```     | Search backward for <x>      |  ```A```    | Append at end of line |
+| ```n```        | Repeat last search           |  ```o```    | Open line below       |
+| ```N```        | Reverse last search          |  ```O```    | Open line above       |
+| ```]]```       | Next section/function        |  ```r```    | Replace character     |
+| ```[[```       | Previous section/function    |  ```R```    | Replace characters    |
+| ```%```        | Find matching () { or }      |  ```d```    | Delete                |
+| ```^l```       | Redraw screen                |  ```dd```   | Delete line           |
+| ```^r```       | Refresh screen               |  ```c```    | Change                |
+| ```z<CR>```    | Current line at top          |  ```y```    | Yank lines to buffer  |
+| ```z-```       | Current line at bottom       |  ```C```    | Change rest of line   |
+| ```^e```       | Scroll down one line         |  ```D ``    | Delete rest of line   |
+| ```^y```       | Scroll up one line           |  ```s```    | Substitute character  |
+| ``             | Previous context             |  ```S```    | Substitute lines      |
+| ```H```        | Home window line             |  ```J```    | Join lines            |
+| ```L```        | Last window line             |  ```x```    | Delete after          |
+| ```M```        | Middle window line           |  ```X```    | Delete before         |
+| ```+```        | Next line                    |  ```Y```    | Yank current line     |
+| ```hjkl```     | Cursor movement:             |  ```p```    | Put back lines        |
+| ``` ```        | left/down/up/right           |  ```P```    | Put before            |
+| ```0```        | Beginning of line            |  ```<<```   | Shift line left       |
+| ```$```        | End of line                  |  ```>>```   | Shift line right      |
+| ```f<x>```     | Find <x> forward             |  ```u```    | Undo last change      |
+| ```F<x>```     | Find <x> backward            |  ```U```    | Restore current line  |
+| ```t<x>```     | Up to <x> forward            |             |                       |
+| ```T<x>```     | Back up to <x>               |             |                       |
+| ```<x>|```     | Go to column <x>             |             |                       |
+| ```w,W```      | Forward one word             |             |                       |
+| ``` b,B```     | Back one word                |             |                       |
 
