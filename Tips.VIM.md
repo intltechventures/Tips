@@ -1,5 +1,8 @@
 # VI/VIM Tips
 
+## My Personal Vim configuration
+- https://github.com/intltechventures/dot.files/blob/master/.vimrc
+
 
 ## Reference
 - https://www.vim.org/
