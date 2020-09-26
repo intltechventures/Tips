@@ -1,6 +1,8 @@
 
 # Nginx Tips
 
+- Read my [2019-06-16 blog post, re: Nginx PGP Key - "Can't check signature: No public key"](https://intltechventures.blogspot.com/2019/06/2019-06-16-sunday-nginx-pgp-keys.html)
+
 ## References
 - http://nginx.org/en/docs/
   + http://nginx.org/en/docs/windows.html  
