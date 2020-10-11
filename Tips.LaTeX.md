@@ -16,12 +16,23 @@
 
 ## Tutorials
 - https://www.tug.org/begin.html
+
 - https://www.latex-tutorial.com/
+
 - https://texample.net/
+
 - https://learnxinyminutes.com/docs/latex/
+
 - https://hackr.io/tutorials/learn-latex
+
 - https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
+
+- https://github.com/cambridge/thesis
+  + "A LaTeX document class that conforms to the Computer Laboratory's PhD
+    thesis formatting guidelines."
+
 - http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf
+
 - https://jeremykun.com/2015/01/10/my-latex-workflow-latexmk-sharelatex-and-stackedit/
 
 - Youtube Videos
