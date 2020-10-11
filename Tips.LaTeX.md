@@ -6,6 +6,7 @@
 - https://www.latex-project.org/
 - https://en.wikibooks.org/wiki/LaTeX
 
+
 ## Implementations
 - https://miktex.org/
   +  "MiKTeX (pronounced mick-tech) is an up-to-date implementation of TeX/LaTeX and related programs."
@@ -16,6 +17,7 @@
 ## Tutorials
 - https://www.tug.org/begin.html
 - https://www.latex-tutorial.com/
+- https://texample.net/
 - https://learnxinyminutes.com/docs/latex/
 - https://hackr.io/tutorials/learn-latex
 - https://www.cs.princeton.edu/courses/archive/spr10/cos433/Latex/latex-guide.pdf
@@ -44,6 +46,9 @@
   + [Luke Smith: LaTeX tutorials - 10 videos](https://www.youtube.com/watch?v=NwnYHoNtfJ0&list=PL-p5XmQHB_JSQvW8_mhBdcwEyxdVX0c1T)
   + [Alexander Baran-Harper: LaTeX tutorials - 12 videos](https://www.youtube.com/watch?v=FXujG7c9p8g&list=PLNnwglGGYoTtW7o4PHFOSWGevcdFa3v3D)
 
+
+## Github Examples
+- https://github.com/PetarV-/TikZ
 
 
 ## LaTeX Discussion Forums
