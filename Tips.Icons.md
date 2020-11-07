@@ -1,6 +1,11 @@
 
 # Web Graphic / Icon Resources
 
+- https://openmoji.org/
+  + OpenMoji is an open source project of 57 students and 3 professors of the HfG Schwäbisch Gmünd and 10 external contributors
+  + https://github.com/hfg-gmuend/openmoji
+    * Open source emojis for designers, developers and everyone else!
+
 
 - https://www.fatcow.com/free-icons
   + "3926 Free "Farm-Fresh Web Icons"
