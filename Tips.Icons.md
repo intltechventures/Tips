@@ -10,7 +10,8 @@
 - https://www.fatcow.com/free-icons
   + "3926 Free "Farm-Fresh Web Icons"
 
-- http://fontawesome.io/
+- https://fontawesome.com/
+  + https://github.com/FortAwesome/Font-Awesome
 
 - https://icons8.com/icons/set/public-domain
 
