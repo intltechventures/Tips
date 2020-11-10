@@ -66,10 +66,11 @@
   + ```G```           - End of File
   + ```i```           - insert
   + ```O```           - open/insert line
-  + ```p```           - paste/put buffer
+  + ```p```           - paste/put buffer (re: paste a yanked line)
   + ```r```           - replace character
   + ```R```           - Replace Characters
   + ```x```           - delete one character
+  + ```y```           - yank (copy) a line
   + ```yy```          - copy line in buffer
 - Command Mode
   + ```:n             - goto line n
