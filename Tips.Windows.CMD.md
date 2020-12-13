@@ -21,6 +21,13 @@
   + ```ipconfig /flushdns```
 
 
+## net commands
+
+- Enable/Hide Hidden Administrator Login
+  + ```net user administrator /active:yes```
+  + ```net user administrator /active:no```
+  + Re: [Administrator has blocked you from running this
+    app...](https://answers.microsoft.com/en-us/windows/forum/windows_10-security/administrator-has-blocked-you-from-running-this/2c268be6-1d17-46af-acf8-9dc2d489b728)
 
 
 ## Suggested Batch Script  Coding Conventions
