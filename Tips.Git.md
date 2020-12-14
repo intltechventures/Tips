@@ -241,8 +241,13 @@
   + ```git checkout branch_name -- filename```
 
 
+- To unstage a ```git add <file>```
+  + ``` git reset <file```
+
+
 - To Amend a Commit Message
   + ```Git commit --amend```
+
 
 - To Check out the origin/master branch and then reset master branch there
   + ```git checkout -B master origin/master```
