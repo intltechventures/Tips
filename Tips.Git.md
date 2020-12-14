@@ -242,7 +242,7 @@
 
 
 - To unstage a ```git add <file>```
-  + ``` git reset <file```
+  + ``` git reset <file>```
 
 
 - To Amend a Commit Message
