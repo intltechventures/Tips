@@ -1,6 +1,9 @@
-Linux Command Notes
+# Linux Command Notes
 
-To update Linux:
+
+## Frequently Used  Commands
+
+- To update Linux:
 * e.g. Ubunut, Mint, Debian
   * sudo apt-get update
   * sudo apt-get upgrade
@@ -8,11 +11,11 @@ To update Linux:
   * sudo -c 'yum update'
 
 
-To un-tar a file
+- To un-tar a file
 * ```tar xvfz```
 
 
-System Profiling & Monitoring Commands
+- System Profiling & Monitoring Commands
 * ```pidstat```
 * ```top```
 * ```mpstat -P ALL 1```
@@ -33,10 +36,14 @@ System Profiling & Monitoring Commands
   * app can be 20-30x slower
 
 
-Who is logged in
+- Who is logged in
 * ```w```
 * ```who```
   * Currently logged in...
   * ``` who | cut -d' ' -f1 | sort | uniq```
 * ```users```
 
+
+## Tutorial Resources
+
+- https://www.freecodecamp.org/news/the-linux-commands-handbook/
