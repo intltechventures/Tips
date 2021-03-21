@@ -63,3 +63,19 @@
       * ```STEP_BEGIN_[PROCESS NAME]```
   + ```JOB_ABORT```
   + ```JOB_END```
+
+
+
+## DOS Shell Script Tiops
+
+- Special Characters  
+  + https://stackoverflow.com/questions/7308586/using-batch-echo-with-special-characters
+    * Option: Escape with ```^``` before EACH special character
+    * Option: ```EnableDelayedExpansion```
+      * ```set "line=<?xml version="1.0" encoding="utf-8" ?>"```
+      * ```setlocal EnableDelayedExpansion```
+      * ```(```
+      * ``` echo !line!```
+      * ```) > myfile.xml```
+
+
