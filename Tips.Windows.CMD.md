@@ -66,7 +66,7 @@
 
 
 
-## DOS Shell Script Tiops
+## DOS Shell Script Tips
 
 - Special Characters  
   + https://stackoverflow.com/questions/7308586/using-batch-echo-with-special-characters
