@@ -13,6 +13,15 @@
 - https://www.windows-commandline.com/
 
 
+## Cleanup Disk Space, and Low Disk Issues...
+
+- cleanmgr.exe 
+  + https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/cleanmgr
+
+- https://support.microsoft.com/en-us/windows/free-up-drive-space-in-windows-10-85529ccb-c365-490d-b548-831022bc9b32
+- https://support.microsoft.com/en-us/windows/low-disk-space-error-due-to-a-full-temp-folder-8eb375af-c5d4-22ac-3f3a-ac0a98382749
+- https://support.microsoft.com/en-us/windows/free-up-space-for-windows-10-updates-429b12ba-f514-be0b-4924-ca6d16fa1d65
+
 ## ipconfig commands
 - display DNS cache:
   + ```ipconfig /displaydns```
