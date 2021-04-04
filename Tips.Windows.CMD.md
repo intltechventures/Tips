@@ -22,6 +22,19 @@
 - https://support.microsoft.com/en-us/windows/low-disk-space-error-due-to-a-full-temp-folder-8eb375af-c5d4-22ac-3f3a-ac0a98382749
 - https://support.microsoft.com/en-us/windows/free-up-space-for-windows-10-updates-429b12ba-f514-be0b-4924-ca6d16fa1d65
 
+
+- https://www.howtogeek.com/174705/how-to-reduce-the-size-of-your-winsxs-folder-on-windows-7-or-8/
+
+- https://www.makeuseof.com/tag/manage-winsxs-folder-windows/
+
+
+https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/determine-the-actual-size-of-the-winsxs-folder
+https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/clean-up-the-winsxs-folder
+https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/manage-the-component-store
+https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/address-disk-space-issues-caused-by-winsxs
+https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/reduce-the-size-of-the-component-store-in-an-offline-windows-image
+
+
 ## ipconfig commands
 - display DNS cache:
   + ```ipconfig /displaydns```
