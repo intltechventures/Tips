@@ -26,6 +26,11 @@
 
 
 ## Exemplars
+
+- show just the headers:
+  + ```curl --head https://www.google.com```
+
+
 - GET, for JSON data
   + ```curl -X GET http://www.example.com/order/{id}  -H "Content-Type: application/json"```
 
