@@ -355,6 +355,10 @@
   + http://www.windowscentral.com/how-disable-windows-10-update-delivery-optimization
   + https://betanews.com/2017/04/07/windows-10-creators-update-changelog-nearly-everything-thats-new-or-improved/
 
+- Laptop Lid power setting not used (i.e., "Do Nothing" ignored)
+  + https://answers.microsoft.com/en-us/windows/forum/windows_10-other_settings-winpc/laptop-lid-settings-in-windows-10/d0bc3c52-f07a-4158-a12b-c68942532323
+  + https://answers.microsoft.com/en-us/windows/forum/all/power-behaviour-on-lid-closes-isnt-working-right/52d15c39-d37c-48fe-9a23-37de06cd6932
+
 
 ## Typing Special Characters
 - https://www.howtogeek.com/howto/21187/insert-any-special-character-with-a-single-keystroke/
