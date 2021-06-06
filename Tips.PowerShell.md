@@ -87,8 +87,9 @@
 
 - Get BIOS info
   + ```Get-WmiObject win32_bios```
-
-
+  + ```Get-WmiObject -Class Win32_BIOS | Format-List *```
+  + https://sumtips.com/snippets/powershell/get-bios-information-with-powershell-cmd/
+  
 
 ## Running PowerShell Scripts from command-line, or windows batch files
 - https://blog.danskingdom.com/allow-others-to-run-your-powershell-scripts-from-a-batch-file-they-will-love-you-for-it/

@@ -127,6 +127,10 @@
 - ```wmic path SoftwareLicensingService get OA3xOriginalProductKey```
 
 
+## Finding BIOS Information
+- https://windowsreport.com/check-bios-version-windows-10/
+
+
 ## URI to Windows 10 control panels
 - https://blogs.technet.microsoft.com/mniehaus/2017/04/13/hiding-pages-in-settings-with-windows-10-1703/ 
   + ms-settings:about
