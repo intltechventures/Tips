@@ -118,6 +118,9 @@
   + ```{WIN Key} + X```
 -  System Properties 
   + ```WIN Key + Pause```
+- Resize Save As window...
+  + click the title bar, or
+  + ```Windows + Down-Arrow```
 
 
 ## Retrieving Original Windows Product Key
