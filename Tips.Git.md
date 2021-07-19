@@ -1,7 +1,7 @@
 
 # Tips.Git.md
 
-- testing
+- testing...
 
 ## Useful Tools
 
