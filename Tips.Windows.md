@@ -112,12 +112,21 @@
 ## Frequently Used Keyboard Shortcuts:
 - File Explorer
   + ```{WIN Key} + E```
+
+
+- Run
+  + ```{WIN Key} + R```
+    * netplwiz        - User Accounts
+
 - Search
   + ```{WIN Key} + S```
+
 - Right-Click Start Menu
   + ```{WIN Key} + X```
+
 -  System Properties 
   + ```WIN Key + Pause```
+
 - Resize Save As window...
   + click the title bar, or
   + ```Windows + Down-Arrow```
