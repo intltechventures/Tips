@@ -35,6 +35,11 @@ https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/address-
 https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/reduce-the-size-of-the-component-store-in-an-offline-windows-image
 
 
+## Hibernate File 
+- https://docs.microsoft.com/en-us/troubleshoot/windows-client/deployment/disable-and-re-enable-hibernation
+  + ```powercfg.exe /hibernate off```
+  + ```powercfg.exe /hibernate on```
+
 ## ipconfig commands
 - display DNS cache:
   + ```ipconfig /displaydns```
