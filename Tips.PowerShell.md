@@ -5,6 +5,8 @@
 ## Documentation
 - https://docs.microsoft.com/en-us/powershell/
 
+- https://devblogs.microsoft.com/powershell/
+
 
 ## PowerShell Gallery
 - https://www.powershellgallery.com/
@@ -30,6 +32,19 @@
 
 - http://powershelltutorial.net/
 
+- https://twitter.com/PowerShellMich1
+  + https://github.com/ZanattaMichael
+  + https://www.linkedin.com/in/michael-zanatta-61670258/
+  + https://www.twitch.tv/powershellmichael/
+
+
+## Community Resources
+
+- https://docs.microsoft.com/en-us/answers/search.html?type=question%20OR%20idea%20OR%20kbentry%20OR%20answer%20OR%20topic%20OR%20user&redirect=search%2Fsearch&sort=relevance&q=%23powershell
+- https://docs.microsoft.com/en-us/answers/topics/windows-server-powershell.html
+
+- https://stackoverflow.com/questions/tagged/powershell
+
 
 
 ## Suggest Books
@@ -49,6 +64,9 @@
 - [Learn PowerShell Core 6.0: Automate and control administrative tasks using DevOps principle](https://www.amazon.com/Learn-PowerShell-Core-6-0-administrative/dp/178883898X)
 
 - [Pro PowerShell for Amazon Web Services: DevOps for the AWS Cloud](https://www.amazon.com/Pro-PowerShell-Amazon-Web-Services-dp-1430264519/dp/1430264519/)
+
+- [The PowerShell Conference Book](https://leanpub.com/powershell-conference-book) (2018)
+
 
 - 2020 Books to look for...
   + [PowerShell for Sysadmins: A Hands-on Guide to Automating Your Workflow](https://www.amazon.com/Automate-Boring-Stuff-PowerShell-Sysadmins/dp/1593279183/)
@@ -90,6 +108,10 @@
   + ```Get-WmiObject -Class Win32_BIOS | Format-List *```
   + https://sumtips.com/snippets/powershell/get-bios-information-with-powershell-cmd/
   
+
+- "Start Using Constrained Language Mode"
+  + https://devblogs.microsoft.com/powershell/powershell-constrained-language-mode/ 
+
 
 ## Running PowerShell Scripts from command-line, or windows batch files
 - https://blog.danskingdom.com/allow-others-to-run-your-powershell-scripts-from-a-batch-file-they-will-love-you-for-it/
