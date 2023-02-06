@@ -86,6 +86,22 @@
   + ```[guid]::newguid()```
 
 
+- Get Serial Numbers:
+  + ```wmic memorychip get serialnumber```
+  + ```wmic diskdrive get serialnumber```
+  + ```wmic baseboard get serialnumber```
+  + ```wmic cdrom where drive='d:' get SerialNumber```
+
+- Disable WiFi
+  + ```netsh interface set interface name="Wireless Network Connection" admin=DISABLED```
+
+
+- Hybernation
+  + ```powercfg /hibernate on```
+  + ```powercfg /hibernate off```
+
+  
+
 ##  PowerShell for the SQL DBA
 - https://groupby.org/conference-session-abstracts/powershell-for-the-sql-dba/
   + ```Enable-PSRemoting```
