@@ -15,6 +15,8 @@
 
 - https://vim.fandom.com/wiki/Vim_Tips_Wiki
 
+- https://www.thomas-krenn.com/en/wiki/Vi_editor_tips_and_tricks
+
 
 ## Tutorials
 - https://danielmiessler.com/study/vim/
