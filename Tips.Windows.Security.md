@@ -2,6 +2,22 @@
 # Windows Security Tips
 
 
+## Windows Firewall Commands
+
+### Dos Command Line
+- Open Windows Firewall 
+    + ```wf.msc```
+    + [Open Windows Defender Firewall with Advanced Security](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/open-windows-firewall-with-advanced-security)
+
+- ```netsh advfirewall```
+    + [Use netsh advfirewall firewall instead of netsh firewall to control Windows Firewall behavior](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/netsh-advfirewall-firewall-control-firewall-behavior)
+
+
+
+### PowerShell
+
+
+
 ## PUPs
 - Windows Defender Identifies The SAME PUP As A Threat Repeatedly 
   + https://answers.microsoft.com/en-us/protect/forum/all/windows-defender-identifies-the-same-pup-as-a/63f17794-3815-4784-b9cd-c6059c8e0828
