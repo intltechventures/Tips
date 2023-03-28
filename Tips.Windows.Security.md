@@ -2,6 +2,16 @@
 # Windows Security Tips
 
 
+## Windows Device Protection 
+
+- https://support.microsoft.com/en-us/windows/device-protection-in-windows-security-afa11526-de57-b1c5-599f-3a4c6a61c5e2
+  + Core isolation
+  + Memory integrity 
+  + Security processor
+  + Secure boot 
+  + Hardware security capability 
+
+
 ## Windows Firewall
 
 ### Windows Firewall References
@@ -11,7 +21,6 @@
 - Microsoft Documentation:
   + https://learn.microsoft.com/en-us/troubleshoot/windows-client/windows-security/windows-security-overview
   + https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/troubleshoot-windows-firewall-with-advanced-security-guidance
-
 
 
 
