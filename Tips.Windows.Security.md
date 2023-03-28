@@ -2,15 +2,26 @@
 # Windows Security Tips
 
 
-## Windows Firewall Commands
+## Windows Firewall
+
+### Windows Firewall References
+- General:
+  + https://en.wikipedia.org/wiki/Windows_Firewall
+
+- Microsoft Documentation:
+  + https://learn.microsoft.com/en-us/troubleshoot/windows-client/windows-security/windows-security-overview
+  + https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/troubleshoot-windows-firewall-with-advanced-security-guidance
+
+
+
 
 ### Dos Command Line
 - Open Windows Firewall 
-    + ```wf.msc```
-    + [Open Windows Defender Firewall with Advanced Security](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/open-windows-firewall-with-advanced-security)
+  + ```wf.msc```
+  + [Open Windows Defender Firewall with Advanced Security](https://learn.microsoft.com/en-us/windows/security/threat-protection/windows-firewall/open-windows-firewall-with-advanced-security)
 
 - ```netsh advfirewall```
-    + [Use netsh advfirewall firewall instead of netsh firewall to control Windows Firewall behavior](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/netsh-advfirewall-firewall-control-firewall-behavior)
+  + [Use netsh advfirewall firewall instead of netsh firewall to control Windows Firewall behavior](https://learn.microsoft.com/en-us/troubleshoot/windows-server/networking/netsh-advfirewall-firewall-control-firewall-behavior)
 
 
 
