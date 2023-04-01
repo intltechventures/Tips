@@ -16,16 +16,30 @@
 - https://lawyerist.com/technology/microsoft-office/word/
 
 
+## OneDrive
+- https://support.microsoft.com/en-us/onedrive
+
+
+## Teams
+- https://support.microsoft.com/en-us/teams
 
 
 ## Outlook
+- https://support.microsoft.com/en-us/outlook
+
 - To apply a consistent View choice to all folders (e.g. disable the ```Reading Pane```)
   + click "Change View"
   + Click "Apply Current View to Other Mail Folders" (choose the folders you want to be affected in the Apply View dialog box"
 
 
+## Excel
+- https://support.microsoft.com/en-us/excel
+
+
 
 ## Word
+- https://support.microsoft.com/en-us/word
+
 - http://www.shaunakelly.com/
 
 - https://support.office.com/en-us/article/Number-your-headings-ce24e028-4cb4-4d4a-bf25-fb2c61fc6585
@@ -49,6 +63,7 @@
 
 
 - [How to add a bibliography to a Word document](https://www.techrepublic.com/article/how-to-add-a-bibliography-to-a-word-document/)
+
 
 
 ### Keyboard Shortcuts
@@ -152,6 +167,16 @@
 
 - §: 
 	+ ```00A7, then Alt + X```
+
+
+## PowerPoint
+
+- https://support.microsoft.com/en-us/powerpoint
+
+- Numbering slides:
+  + https://support.microsoft.com/en-us/office/show-the-slide-number-and-total-number-of-slides-on-every-slide-e62b363a-a5c4-413e-b7b7-52c1a4d9dd02
+    - PowerPoint can automatically add numbers to your slides, but it can't automatically show a count (such as "slide 2 of 12"). You have to do that manually. 
+
 
 
 ## Visio
