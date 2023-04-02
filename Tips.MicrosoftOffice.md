@@ -35,6 +35,10 @@
 ## Excel
 - https://support.microsoft.com/en-us/excel
 
+- https://www.automateexcel.com/formulas/
+  + https://www.automateexcel.com/functions/
+  + https://www.automateexcel.com/formulas-functions/
+
 
 
 ## Word
