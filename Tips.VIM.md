@@ -1,11 +1,15 @@
-# VI/VIM Tips
+# VIM (Vi IMproved) Tips
 
 ## My Personal Vim configuration
-- https://github.com/intltechventures/dot.files/blob/master/.vimrc
+- https://github.com/intltechventures/dot.files/
 
 
 ## Reference
 - https://www.vim.org/
+
+- https://github.com/vim
+  + https://github.com/vim/vim
+
 
 - https://vimhelp.org/
   + https://vimhelp.org/quickref.txt.html
@@ -18,10 +22,21 @@
 - https://www.thomas-krenn.com/en/wiki/Vi_editor_tips_and_tricks
 
 
+
+## Release Notes
+
+- Vim 9
+  + https://vimhelp.org/version9.txt.html 
+
+
+
+
 ## Tutorials
 - https://danielmiessler.com/study/vim/
 
 - http://learnvimscriptthehardway.stevelosh.com/
+
+- https://vimways.org/2
 
 
 ## From Commandline:
