@@ -24,10 +24,26 @@
 - http://learnvimscriptthehardway.stevelosh.com/
 
 
-## Commands:
+## From Commandline:
 
-- VIM Version
+- Vim Version
   + ```vim --version```
+
+
+
+## Within Vim:
+- View Runtimepath (inside Vim)
+  + ```:echo &runtimepath```
+
+
+- Which scripts are loaded
+  + ```:scriptnames```
+
+- View where a setting was loaded from 
+  + ```:verbose set <setting name>``` (for example: ```:verbose set background```)
+
+
+
 
 ### Navigation
 
