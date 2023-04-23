@@ -1,6 +1,11 @@
 
 # Microsoft Office Tips
 
+## References
+
+- https://support.microsoft.com/en-us/topic/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35
+
+
 ## Suggested Books
 - Suggest starting with one or more of these:
   + [Office 365 All-in-One For Dummies, First Edition](https://www.amazon.com/Office-All-One-Dummies-Computer/dp/1119576245/) - June 2019
