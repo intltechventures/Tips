@@ -5,7 +5,7 @@
 
 |Key Combo | Definition|
 |---------------|-----------|
-CTL + <zero>    | Use Specification View to enter content
+CTL + 0 (zero)  | Use Specification View to enter content
 CTL + B         | Save current diagram image to clipboard
 CTL + T         | Save current diagram image to file
 CTL + F9        | Preferences
