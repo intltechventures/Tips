@@ -5,7 +5,8 @@
 - https://en.wikipedia.org/wiki/PowerShell
 
 - https://docs.microsoft.com/en-us/powershell/i
-
+- https://learn.microsoft.com/en-us/powershell/
+- https://github.com/PowerShell/PowerShell
 
 
 ### PowerShell 7
@@ -49,6 +50,7 @@
 
 
 ### Check SHA256 Hash for a File:
+- https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash?view=powershell-7.3
 * ```Get-FileHash {filename | full file path name}
 * Note: You can also add a qualifier to specify a different hash algorithm result, e.g.
 	* -Algorithm MD5
