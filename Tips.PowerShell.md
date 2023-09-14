@@ -86,6 +86,14 @@
   + ```[guid]::newguid()```
 
 
+
+- Get Hash
+  + https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.utility/get-filehash?view=powershell-7.3
+  + ```Get-FileHash```
+  + Algorithms supported: SHA1, SHA256, SHA384, SHA512, MD5
+
+
+
 - Get Serial Numbers:
   + ```wmic memorychip get serialnumber```
   + ```wmic diskdrive get serialnumber```
