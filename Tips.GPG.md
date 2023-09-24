@@ -19,11 +19,13 @@
 
 
 ## Check a file against its GPG Key
+- Examples:
+  + https://www.openoffice.org/download/checksums.html
 
-- ```gpg --show-keys --with-fingerprint <publickeyfile.asc>```
+- ```gpg --show-keys --with-fingerprint <KEYS file>```
   + Ensure that the uid for the signging key is valid for the source 
 
-- ```gpg --import <publickeyfile.asc>```
+- ```gpg --import <KEYS file>```
   + Import the key
 
-- ```gpg --verify <file.asc> <file>```
+- ```gpg --verify <installation file.asc> <installation file>```
