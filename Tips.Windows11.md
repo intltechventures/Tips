@@ -1,6 +1,16 @@
 
 # Windows 11 Tipos
 
+## Downloads
+
+- Windows 11 Media Creation Tool
+  + https://go.microsoft.com/fwlink/?linkid=2156295
+
+- Windows 11 Disk Image (ISO)  
+  + https://www.microsoft.com/en-in/software-download/Windows11
+
+
+
 ## Microsoft Documentation References
 
 - https://learn.microsoft.com/en-us/windows/
@@ -61,6 +71,9 @@
 
 ## Unexpected Differences from Windows 10
 
+- [List of Changed or removed features/functionalities in Windows 11 ](https://answers.microsoft.com/en-us/windows/forum/all/list-of-changed-or-removed-featuresfunctionalities/1151c688-462a-4579-9164-8d11c78652c8)
+  + In comments, user "Sumt D - VM" wrote: "The taskbar was designed from scratch hence the features are missing"
+
 - Print to PDF
   + [Microsoft Print to PDF not populating the filename](https://answers.microsoft.com/en-us/windows/forum/all/microsoft-print-to-pdf-not-populating-the-filename/42b28b49-bc2d-4442-9a87-2078861a20ea)
 
@@ -95,7 +108,9 @@
   + [How to Customize Windows Terminal: Change Theme, Colors, Background Image & More](https://beebom.com/how-customize-windows-terminal/) 
 
 
-
+- Changing the size of the taskbar icons no longer works starting with Windows 11 build 22621.1343.
+  + https://answers.microsoft.com/en-us/windows/forum/all/change-the-size-of-taskbar-icons-in-windows-11/71de5118-ea61-4d3e-b91f-5e6a24aba3b0
+    * https://www.elevenforum.com/t/change-size-of-taskbar-icons-in-windows-11.45/
 
 ## Articles
  
