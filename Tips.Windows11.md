@@ -1,5 +1,5 @@
 
-# Windows 11 Tipos
+# Windows 11 Tips
 
 ## Downloads
 
