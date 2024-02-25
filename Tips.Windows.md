@@ -34,6 +34,8 @@
 
 
 ## Windows System Information Commands
+- Run: msinfo32 
+
 - Command Window: ```systeminfo```
   + ```systeminfo | findstr /c:"OS Name"```
   + ```systeminfo | findstr /c:"OS Version"```
