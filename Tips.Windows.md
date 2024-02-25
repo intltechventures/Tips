@@ -32,6 +32,10 @@
 - https://www.cnet.com/forums/windows-10/
 
 
+## Microsoft Update Catalog Information
+- https://www.catalog.update.microsoft.com/home.aspx
+
+
 
 ## Windows System Information Commands
 - Run: msinfo32 
