@@ -60,6 +60,7 @@
 - https://techcommunity.microsoft.com/t5/windows/ct-p/Windows
   + https://techcommunity.microsoft.com/t5/windows-11/bd-p/Windows11
 
+- https://answers.microsoft.com/en-us/windows/forum
 - https://answers.microsoft.com/en-us/windows/forum/windows_11
 
 - https://www.reddit.com/r/Windows11/

@@ -9,6 +9,8 @@
 - https://social.technet.microsoft.com/Forums/en-US/home?category=Windows10ITPro
 - https://social.technet.microsoft.com/Forums/en-US/home?forum=win10itprogeneral
 
+- https://answers.microsoft.com/en-us/windows/forum
+
 
 ## Windows Version Notes
 - Every Windows10 release has FIVE different names, one has SIX. Make sure you have these all memorized for each one.
