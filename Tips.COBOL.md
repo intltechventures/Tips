@@ -22,6 +22,11 @@
   + [1985: ANSI X3.23-1985, ISO 1989-1985, FIPS PUB 21-2](https://www.govinfo.gov/content/pkg/GOVPUB-C13-d0cd47d3539e1d225361316057506135/pdf/GOVPUB-C13-d0cd47d3539e1d225361316057506135.pdf)
 
 
+## Training Resources
+
+- Open Mainframe Project - COBOL Programming Course
+  + https://openmainframeproject.org/projects/cobol-programming-course/
+  + https://github.com/openmainframeproject/cobol-programming-course
 
 
 ## Vendor Solutions/Tooling

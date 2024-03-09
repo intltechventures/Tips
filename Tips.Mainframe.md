@@ -1,6 +1,15 @@
 
 # Tips > Mainframe Resources
 
+## References
+
+- Open Mainframe Project 
+  + https://openmainframeproject.org/
+  + https://github.com/openmainframeproject
+  + https://github.com/orgs/openmainframeproject/repositories
+
+
+
 ## Vendor Solutions
 
 - [HCL Technologies](https://www.hcltechsw.com/)
