@@ -40,6 +40,12 @@
 
 
 ## Windows System Information Commands
+
+- Manage Environment Variables
+  + Open Run (```Windows Key + R```)
+  + ```rundll32 sysdm.cpl,EditEnvironmentVariables```
+
+
 - Run: msinfo32 
 
 - Command Window: ```systeminfo```
