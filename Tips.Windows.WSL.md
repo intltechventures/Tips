@@ -23,9 +23,19 @@
 
 ## WSL Commands
 
+- https://learn.microsoft.com/en-us/windows/wsl/basic-commands
+
+- ```whoami```
+
 - WSL Versions / Status:
   + ```wsl -l -v```
   + ```wsl --list --online```
+  + ```wsl --version```
+  + ```wsl --status```
+
+
+- WSL Update:  
+  + ```wsl --update```
 
 
 - List available distributions:
@@ -33,4 +43,28 @@
   + ```wsl -l -o```
 
 
+- Run a specific Linux distribution from PowerShell or CMD:
+  + ```wsl --distribution <Distribution Name> --user <User Name>```
 
+
+- Change directory to home:
+  + ```wsl ~```
+
+
+- Mount a disk or device:
+  + ```wsl --mount <DiskPath>```
+
+
+- Unmount disks:
+  + ```wsl --unmount <DiskPath>```
+
+- Shutdown:
+  + ```wsl --shutdown```
+
+
+- Terminate:
+  + ```wsl --terminate <Distribution Name>```
+
+
+- Unregister or uninstall a Linux distribution: 
+  + ```wsl --unregister <DistributionName>```
