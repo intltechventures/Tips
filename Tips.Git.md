@@ -250,6 +250,10 @@
   + ```Git commit --amend```
 
 
+- TO backdate commits
+  + ```git commit --date <date>```
+
+
 - To Check out the origin/master branch and then reset master branch there
   + ```git checkout -B master origin/master```
 
