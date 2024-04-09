@@ -5,12 +5,17 @@
 - Microsoft, Command-line reference A-Z
   + https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
 
+
 - https://ss64.com/nt/
   + An A-Z Index of the Windows CMD command line
+  + https://ss64.com/nt/syntax.html
 
 - https://www.ionos.com/digitalguide/server/know-how/windows-cmd-commands/
 
 - https://www.windows-commandline.com/
+
+- https://en.wikibooks.org/wiki/Windows_Batch_Scripting
+  + *** This is a *VERY* good references***
 
 
 ## Cleanup Disk Space, and Low Disk Issues...
@@ -104,5 +109,22 @@ https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/reduce-the
       * ```(```
       * ``` echo !line!```
       * ```) > myfile.xml```
+
+## Advanced Batch Scripting Examples
+
+- https://www.codeproject.com/Articles/20307/Advanced-Batch-File-Techniques-Part-1-Bubble-Sort- 
+
+- http://steve-jansen.github.io/guides/windows-batch-scripting/index.html
+  + See parts 1 thru 10...
+  + http://steve-jansen.github.io/guides/windows-batch-scripting/part-1-getting-started.html
+  + http://steve-jansen.github.io/guides/windows-batch-scripting/part-2-variables.html
+  + http://steve-jansen.github.io/guides/windows-batch-scripting/part-3-return-codes.html
+  + http://steve-jansen.github.io/guides/windows-batch-scripting/part-4-stdin-stdout-stderr.html
+  + http://steve-jansen.github.io/guides/windows-batch-scripting/part-5-if-then-conditionals.html
+  + http://steve-jansen.github.io/guides/windows-batch-scripting/part-6-loops.html
+  + http://steve-jansen.github.io/guides/windows-batch-scripting/part-7-functions.html
+  + http://steve-jansen.github.io/guides/windows-batch-scripting/part-8-parsing-input.html
+  + http://steve-jansen.github.io/guides/windows-batch-scripting/part-9-logging.html
+  + http://steve-jansen.github.io/guides/windows-batch-scripting/part-10-advanced-tricks.html
 
 
