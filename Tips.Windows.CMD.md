@@ -5,6 +5,8 @@
 - Microsoft, Command-line reference A-Z
   + https://docs.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
 
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
+  + https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/if
 
 - https://ss64.com/nt/
   + An A-Z Index of the Windows CMD command line
@@ -16,6 +18,9 @@
 
 - https://en.wikibooks.org/wiki/Windows_Batch_Scripting
   + *** This is a *VERY* good references***
+
+- https://tutorialreference.com/batch-scripting/batch-script-tutorial
+
 
 
 ## Cleanup Disk Space, and Low Disk Issues...
@@ -127,4 +132,7 @@ https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/reduce-the
   + http://steve-jansen.github.io/guides/windows-batch-scripting/part-9-logging.html
   + http://steve-jansen.github.io/guides/windows-batch-scripting/part-10-advanced-tricks.html
 
+- https://www.makeuseof.com/tag/windows-batch-if-statements/
+
+- http://cplusplus.bordoon.com/cmd_exe_variables.html
 
