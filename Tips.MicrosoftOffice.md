@@ -45,6 +45,9 @@
   + https://www.automateexcel.com/formulas-functions/
 
 
+- https://exceljet.net/formulas
+- https://exceljet.net/functions
+
 
 ## Word
 - https://support.microsoft.com/en-us/word
@@ -111,6 +114,14 @@
   + CTRL+/, o or O
     * ø
     * Ø
+
+  + Checkmark
+    * ALT 0252 (select Wingdings font)
+    * Word Web App missing check mark (tick mark) symbols 
+      * https://answers.microsoft.com/en-us/msoffice/forum/all/word-web-app-missing-check-mark-tick-mark-symbols/91b5be08-659d-430e-afb5-697b82cdd20a
+  + Checkbox
+    * ALT 0254 (select Wingdings font)
+ 
   + ALT+CTRL+SHIFT+?
     * ¿
   + ALT+CTRL+SHIFT+!
