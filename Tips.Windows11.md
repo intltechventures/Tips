@@ -58,6 +58,9 @@
 - Maximum Path LengthLimitation
   + https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry
 
+  + https://www.mindgems.com/article/find-long-paths-long-file-names/
+  + https://learn.microsoft.com/en-us/answers/questions/1434888/long-path-not-working-and-i-am-unable-to-rename-th
+
 
 ## Useful Forums
 
