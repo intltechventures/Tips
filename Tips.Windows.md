@@ -267,10 +267,14 @@
 ## Useful Utilities
 - Network Bandwidth Monitoring
   + https://www.softperfect.com/products/networx/
+
 - Windows Software Package Installers (like yum, but for Windows)
   + https://github.com/lvillani/just-install
+
 - https://www.busybox.net/
+
 - https://www.cygwin.com/
+
 - http://www.mingw.org/
 
 
@@ -282,6 +286,8 @@
 ## Removing the MAX_PATH Limitation
 - Windows historically has limited path lengths to 260 characters. This meant that paths longer than this would not resolve and errors would result.
 - In the latest versions of Windows, this limitation can be expanded to approximately 32,000 characters. Your administrator will need to activate the “Enable Win32 long paths” group policy, or set the registry value HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\FileSystem@LongPathsEnabled to 1.
+
+- https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation
 
 - https://superuser.com/questions/1119883/windows-10-enable-ntfs-long-paths-policy-option-missing
 - https://eocloud.cloudferro.com/knowledgebase.php?action=displayarticle&id=135
