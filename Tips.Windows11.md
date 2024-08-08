@@ -55,6 +55,10 @@
   + https://learn.microsoft.com/en-us/windows/sudo/
 
 
+- Maximum Path LengthLimitation
+  + https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation?tabs=registry
+
+
 ## Useful Forums
 
 - https://techcommunity.microsoft.com/t5/windows/ct-p/Windows
