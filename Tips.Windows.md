@@ -289,6 +289,9 @@
 
 - https://learn.microsoft.com/en-us/windows/win32/fileio/maximum-file-path-limitation
 
+- https://www.mindgems.com/article/find-long-paths-long-file-names/
+- https://learn.microsoft.com/en-us/answers/questions/1434888/long-path-not-working-and-i-am-unable-to-rename-th
+
 - https://superuser.com/questions/1119883/windows-10-enable-ntfs-long-paths-policy-option-missing
 - https://eocloud.cloudferro.com/knowledgebase.php?action=displayarticle&id=135
   + Open Group Policy Editor (open shell window and type ```gpedit.msc``` and hit ```<Enter>``` key).
