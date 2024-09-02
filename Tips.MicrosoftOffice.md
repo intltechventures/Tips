@@ -49,6 +49,10 @@
 - https://exceljet.net/functions
 
 
+- [Microsoft Excel: How to Change the Starting Page Number in a Worksheet](https://thesoftwarepro.com/microsoft-excel-how-to-change-the-starting-page-number-in-a-worksheet/)
+
+
+
 ## Word
 - https://support.microsoft.com/en-us/word
 
