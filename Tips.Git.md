@@ -1,7 +1,6 @@
 
 # Tips.Git.md
 
-- testing...
 
 ## Useful Tools
 
@@ -43,6 +42,13 @@
 - github Markdown
   + https://guides.github.com/features/mastering-markdown/
   + https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+
+
+## Tips Lists by Others
+
+- https://github.com/git-tips/tips
+
 
 
 
