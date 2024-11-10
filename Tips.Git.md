@@ -45,6 +45,14 @@
 
 
 
+## Git Communities
+
+- https://github.com/community
+  + https://github.blog/
+
+
+
+
 ## Tips Lists by Others
 
 - https://github.com/git-tips/tips
@@ -53,6 +61,13 @@
 
 
 ## Git Tutorial Resources
+
+- https://github.com/github-education
+
+- https://github.com/skills
+
+- https://www.youtube.com/github
+
 - https://onlywei.github.io/explain-git-with-d3/
 
 - https://ohshitgit.com/
@@ -154,6 +169,9 @@
 
 
 ## Downloads
+
+- https://github.com/apps/desktop
+  + https://github.com/desktop
 
 - https://git-scm.com/ 
 
