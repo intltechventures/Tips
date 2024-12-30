@@ -18,6 +18,8 @@
 
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
+- https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
+
 
 ## Tutorials
 - https://guides.github.com/features/mastering-markdown/
