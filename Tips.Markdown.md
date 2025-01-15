@@ -23,3 +23,10 @@
 
 ## Tutorials
 - https://guides.github.com/features/mastering-markdown/
+
+
+## Useful Commands
+
+- Copy Lines to current cursor position
+  + ```:81,91t.<enter>```
+    * This will paste the lines 81-91 under the line the cursor is on.
