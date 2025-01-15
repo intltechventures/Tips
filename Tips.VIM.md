@@ -38,6 +38,15 @@
 
 - https://vimways.org/2
 
+- https://www.tutorialspoint.com/unix/unix-vi-editor.htm
+
+- https://www.ccsf.edu/Pub/Fac/vi.html
+
+- http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf
+
+- https://kb.iu.edu/d/afdc
+
+
 
 ## From Commandline:
 
@@ -68,7 +77,7 @@
   + Move to Middle of screen
     * ```shift-m```
   + Move to Lower of screen 
-    * ```shift-l```
+* ```shift-l```
 
 - What Line # am I on?
   + ```:set number```
@@ -129,21 +138,20 @@
   + ```:set mouse&```
 
 
+- Copy from-to lines, to current cursor position
+  + Example: ```:81,91t.<enter>```
+    * This will paste the lines 81-91 under the line the cursor is on.
+
+
 - Replace text
   + http://vim.wikia.com/wiki/Search_and_replace
     ( ```:%/original_text/new_text/```
+
 
 ## Language Plugins
 - https://github.com/fatih/vim-go
 
 
-## Tutorials & Quick References
-- https://www.tutorialspoint.com/unix/unix-vi-editor.htm
 
-- https://www.ccsf.edu/Pub/Fac/vi.html
-
-- http://www.atmos.albany.edu/daes/atmclasses/atm350/vi_cheat_sheet.pdf
-
-- https://kb.iu.edu/d/afdc
 
 
