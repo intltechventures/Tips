@@ -14,7 +14,6 @@
   + https://www.apache.org/info/verification.html
 
 
-
 ## Renew expired GPG subkey
 - ```gpg –list-keys```
   * this gives you a list of all the keys on your computer. ...
@@ -47,12 +46,10 @@
 
 - Import the key
   + ```gpg --import <KEYS file>```
-
-
 - Verify 
   + ```gpg --verify <installation file.asc> <installation file>```
 
 
-- The crucial step to validation is to confirm the key fingerprint of the public key:L 
+- The crucial step to validation is to confirm the key fingerprint of the public key:
   + ```gpg --fingerprint <public key>```
     * Example: ```gpg --fingerprint DE885DD3```
