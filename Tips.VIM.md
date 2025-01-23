@@ -115,10 +115,10 @@
   + ```y```           - yank (copy) a line
   + ```yy```          - copy line in buffer
 - Command Mode
-  + ```:n             - goto line n
+  + ```:n```          - goto line n
   + ```:q```          - quit
   + ```:q!```         - quit, no save
-  + ```:r file        - import file
+  + ```:r file```     - import file
   + ```:u```          - Undo last command
   + ```:redo```       - redo 
   + ```:w```          - write
