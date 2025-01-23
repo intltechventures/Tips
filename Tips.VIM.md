@@ -128,7 +128,7 @@
 
 - Line Numbering
   + ON
-    * ```:set number | nu'''
+    * ```:set number | nu```    
   + OFF
     * ```:set nonumber | nonu```
 
@@ -145,7 +145,7 @@
 
 - Replace text
   + http://vim.wikia.com/wiki/Search_and_replace
-    ( ```:%/original_text/new_text/```
+    * ```:%/original_text/new_text/```
 
 
 ## Language Plugins
