@@ -15,6 +15,9 @@
 - https://chat.mozilla.org/
 
 
+- Clear Cache
+  + https://support.mozilla.org/en-US/kb/delete-browsing-search-download-history-firefox
+
 
 ## about:config
 
