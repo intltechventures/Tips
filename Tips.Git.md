@@ -75,6 +75,12 @@
 - https://devguide.python.org/gitbootcamp/
 
 
+## Git File Tips
+
+ - Put a .gitignore containing a single asterisk in your scratch directories
+
+
+
 ## Git Statistics, Visualization 
 - http://ghv.artzub.com/
 
