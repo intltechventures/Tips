@@ -46,6 +46,7 @@
 
 - https://kb.iu.edu/d/afdc
 
+- https://neovim.io/doc/user/index.html
 
 
 ## From Commandline:
