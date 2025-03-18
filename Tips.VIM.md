@@ -21,6 +21,7 @@
 
 - https://www.thomas-krenn.com/en/wiki/Vi_editor_tips_and_tricks
 
+- https://vimdoc.sourceforge.net/htmldoc/
 
 
 ## Release Notes
