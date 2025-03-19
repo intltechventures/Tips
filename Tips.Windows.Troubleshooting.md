@@ -1,6 +1,12 @@
 
 # Windows Troubleshooting
 
+## References
+
+- Error codes in Device Manager
+  + https://support.microsoft.com/en-us/topic/error-codes-in-device-manager-in-windows-524e9e89-4dee-8883-0afa-6bca0456324e
+
+
 ## Commands:
 
 - System File Checker
