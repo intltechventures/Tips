@@ -57,6 +57,7 @@
 
 - Location of templates:
   + ```C:\Users\<user id>\AppData\Roaming\Microsoft\Templates```
+  + ```%appdata%\Microsoft\Templates```
 
 - https://support.microsoft.com/en-us/word
 
