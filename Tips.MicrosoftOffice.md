@@ -54,6 +54,10 @@
 
 
 ## Word
+
+- Location of templates:
+  + ```C:\Users\<user id>\AppData\Roaming\Microsoft\Templates```
+
 - https://support.microsoft.com/en-us/word
 
 - http://www.shaunakelly.com/
