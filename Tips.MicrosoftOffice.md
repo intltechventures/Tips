@@ -83,6 +83,8 @@
 
 - [Microsoft Excel: How to Change the Starting Page Number in a Worksheet](https://thesoftwarepro.com/microsoft-excel-how-to-change-the-starting-page-number-in-a-worksheet/)
 
+- Excel COM add-ins and Automation add-ins
+  + https://support.microsoft.com/en-us/topic/excel-com-add-ins-and-automation-add-ins-91f5ff06-0c9c-b98e-06e9-3657964eec72
 
 
 ## Word
