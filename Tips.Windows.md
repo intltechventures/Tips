@@ -61,7 +61,10 @@
     * https://github.com/StevenBlack/hosts/
       * https://github.com/StevenBlack/hosts/tree/master/data/add.Risk
 
-
+  + Personal List 
+    * ```# Kelivn - Personal list```
+    * ```127.0.0.1 video.dailymail.co.uk					# block Daily Mail videos```
+  
 
 ## Windows System Information Commands
 
