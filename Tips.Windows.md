@@ -1,5 +1,8 @@
 # Helpful Microsoft Windows Tips
 
+## Microsoft Windows 11 Resources 
+
+
 ## Microsoft Windows 10 Resources
 - https://docs.microsoft.com/en-us/windows/windows-10/
 - https://www.microsoft.com/en-us/itpro/windows-10/release-information
@@ -36,6 +39,27 @@
 
 ## Microsoft Update Catalog Information
 - https://www.catalog.update.microsoft.com/home.aspx
+
+
+
+## Window Files
+
+- hosts
+  + Location:
+    * ``` C:\Windows\System32\drivers\etc\hosts```
+    * ```%SystemRoot%\system32\drivers\etc\hosts``` 
+  + Documentation:
+    * https://learn.microsoft.com/en-us/windows/powertoys/hosts-file-editor
+    * https://support.microsoft.com/en-us/topic/how-to-reset-the-hosts-file-back-to-the-default-c2a43f9d-e176-c6f3-e4ef-3500277a6dae
+    * https://support.microsoft.com/en-us/topic/microsoft-tcp-ip-host-name-resolution-order-dae00cc9-7e9c-c0cc-8360-477b99cb978a
+    * https://www.howtogeek.com/784196/how-to-edit-the-hosts-file-on-windows-10-or-11/
+    * https://lifehacker.com/how-to-really-block-distracting-websites-with-your-ho-1831493194
+    * https://nordvpn.com/blog/use-hosts-file-block-ads-malware/
+    * https://en.wikipedia.org/wiki/Hosts_(file)
+
+  + Useful Lists
+    * https://github.com/StevenBlack/hosts/
+      * https://github.com/StevenBlack/hosts/tree/master/data/add.Risk
 
 
 
