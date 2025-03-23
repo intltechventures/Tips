@@ -5,6 +5,38 @@
 
 - https://support.microsoft.com/en-us/topic/keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35
 
+- https://support.microsoft.com/en-us/office/command-line-switches-for-microsoft-office-products-079164cd-4ef5-4178-b235-441737deb3a6
+  + ```/a``` - Starts Word and prevents add-ins and global templates (including the Normal template) from being loaded automatically. The /a switch also locks the setting files.
+
+
+- Microsoft 365 Registry Information
+  + https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users
+
+  + https://learn.microsoft.com/en-us/office/troubleshoot/word/reset-options-and-settings-in-word
+    * Word Key
+      * ```HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word```
+    * Data Key 
+      * ```HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word\Data```
+    * Options key
+      * ```HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word\Options```
+    * Wizards Key 
+      * ```HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Word\Wizards```
+    * Common Key 
+      * ```HKEY_CURRENT_USER\Software\Microsoft\Office\16.0\Common```
+    * Shared Tool Key
+      * ```HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Shared Tools```
+    * Summary of Word options and where they are stored 
+      * https://learn.microsoft.com/en-us/office/troubleshoot/word/reset-options-and-settings-in-word#summary-of-word-options-and-where-they-are-stored
+
+
+  + Useful Registory Hacks, Tips, Tutorials 
+    * https://blog.infostruction.com/2016/11/08/registry-keys-for-office-365-20132016/
+    * https://www.techtarget.com/searchwindowsserver/tip/Command-line-options-for-Regeditexe
+
+
+  + Microsoft 365 Registry Attack Vectors 
+    * https://docs-cortex.paloaltonetworks.com/r/Cortex-XDR/Cortex-XDR-Analytics-Alert-Reference-by-Alert-name/Microsoft-OneNote-enumeration-activity
+
 
 ## Suggested Books
 - Suggest starting with one or more of these:

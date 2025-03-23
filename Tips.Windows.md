@@ -1,5 +1,11 @@
 # Helpful Microsoft Windows Tips
 
+## Windows References
+
+- Windows Registry Information 
+  + https://learn.microsoft.com/en-us/troubleshoot/windows-server/performance/windows-registry-advanced-users
+
+
 ## Microsoft Windows 11 Resources 
 
 
