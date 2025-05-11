@@ -39,6 +39,7 @@
 
 
 ## Suggested Books
+
 - Suggest starting with one or more of these:
   + [Office 365 All-in-One For Dummies, First Edition](https://www.amazon.com/Office-All-One-Dummies-Computer/dp/1119576245/) - June 2019
   + [Office 2019 All-in-One For Dummies](https://www.amazon.com/Office-2019-All-One-Dummies/dp/1119513278/) - October 2018
@@ -50,18 +51,22 @@
 
 
 ## Quick Tutorials
+
 - https://lawyerist.com/technology/microsoft-office/word/
 
 
 ## OneDrive
+
 - https://support.microsoft.com/en-us/onedrive
 
 
 ## Teams
+
 - https://support.microsoft.com/en-us/teams
 
 
 ## Outlook
+
 - https://support.microsoft.com/en-us/outlook
 
 - To apply a consistent View choice to all folders (e.g. disable the ```Reading Pane```)
@@ -70,7 +75,11 @@
 
 
 ## Excel
+
 - https://support.microsoft.com/en-us/excel
+  + https://support.microsoft.com/en-us/office/excel-functions-alphabetical-b3944572-255d-4efb-bb96-c6d90033e188
+  + https://support.microsoft.com/en-us/office/Formulas-and-functions-294d9486-b332-48ed-b489-abe7d0f9eda9
+
 
 - https://www.automateexcel.com/formulas/
   + https://www.automateexcel.com/functions/
@@ -243,5 +252,6 @@
 
 
 ## Visio
+
 - https://superuser.com/search?q=visio
 - http://www.visguy.com/
