@@ -296,3 +296,11 @@
   + ```git log --graph --oneline --decorate --date=relative --all```
 
 
+- overwrite only one file:
+  + ```git fetch```
+  + ```git checkout origin/main <filepath>```
+
+
+- overwrite all changed files:
+  + ```git fetch```
+  + ```git reset --hard origin/main```
