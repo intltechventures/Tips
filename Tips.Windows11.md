@@ -24,6 +24,9 @@
 - https://support.microsoft.com/en-us/meetwindows11
   + https://support.microsoft.com/en-us/windows/meet-windows-11-the-basics-a7519756-6807-41e4-be66-ed3b2c0abe0d
 
+- Windows 11 System Requirements
+  + https://support.microsoft.com/en-us/windows/windows-11-system-requirements-86c11283-ea52-4782-9efd-7674389a7ba3
+
 - https://learn.microsoft.com/en-us/windows/resources/
 
 - https://www.microsoft.com/en-us/windows/business/compare-windows-11
@@ -123,6 +126,7 @@
 ## Articles
  
 - https://www.techtarget.com/whatis/feature/Windows-11-explained-Everything-you-need-to-know
+
 - https://www.techrepublic.com/article/windows-11-cheat-sheet-everything-you-need-to-know/
 
 - https://beebom.com/sudo-command-windows-11/
