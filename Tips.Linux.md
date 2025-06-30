@@ -23,3 +23,14 @@
 
 
 
+## Examples of Useful Commands and Parameters
+
+- ```grep -H -a -n -i -r -F "architecture on a page" --include=*.txt```
+  + ```-H``` - print file name with output lines 
+  + ```-a``` - equivalent to ```binary-files=text```
+  + ```-n``` - print line number 
+  + ```-i``` - ignore case 
+  + ```-r''' - recursive, into directories 
+  + '''-include=<File Name Pattern>``` - search only files that match the GLOB (a file pattern)
+
+
