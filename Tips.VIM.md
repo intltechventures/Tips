@@ -115,7 +115,9 @@
   + ```R```           - Replace Characters
   + ```x```           - delete one character
   + ```y```           - yank (copy) a line
-  + ```yy```          - copy line in buffer
+  + ```yy```          - copy line in buffer 
+  + ```[n]yy```       - copy [n] lines to the buffer
+
 - Command Mode
   + ```:n```          - goto line n
   + ```:q```          - quit
