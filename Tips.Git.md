@@ -228,6 +228,12 @@
 
 
 
+# Useful Git Commands
+
+- Count number of commit (in a repository)
+  + ```git log --oneline | wc -l```
+
+
 
 # Git Command Examples   
 
