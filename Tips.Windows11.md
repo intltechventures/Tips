@@ -41,6 +41,14 @@
 
   + https://learn.microsoft.com/en-us/windows/release-health/windows11-release-information#windows-11-release-history
 
+
+- File Explorer Context Menu 
+  + In Windows 11, the right-click context menu has been streamlined, requiring us to select "Show more options" to access the classic menu. 
+  + NOTE: ```Shift + Right-click``` directly shows the old context menu, 
+    * https://learn.microsoft.com/en-us/answers/questions/4028520/restoring-the-classic-context-menu-in-windows-11
+
+
+
 - Windows Terminal 
   + https://github.com/microsoft/terminal
     * https://github.com/microsoft/terminal/issues
@@ -49,6 +57,7 @@
   + https://learn.microsoft.com/en-us/windows/terminal/troubleshooting
   + https://learn.microsoft.com/en-us/windows/terminal/tips-and-tricks?source=recommendations
   + https://learn.microsoft.com/en-us/windows/terminal/customize-settings/startup?source=recommendations
+
 
 - Windows Command Line
   + https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands
