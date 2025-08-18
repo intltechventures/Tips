@@ -44,6 +44,13 @@
   + https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
 
 
+- Managing a custom domain for your GitHub Pages site
+  + https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site
+  + https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages#types-of-github-pages-sites
+    * "Must be stored in a repository named <owner>.github.io, where <owner> is the personal or organization account name"
+  + https://docs.github.com/en/pages/getting-started-with-github-pages/securing-your-github-pages-site-with-https
+  + https://github.com/skills/github-pages
+
 
 ## Git Communities
 
