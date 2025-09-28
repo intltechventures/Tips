@@ -1,5 +1,6 @@
 # VIM (Vi IMproved) Tips
 
+
 ## My Personal Vim configuration
 - https://github.com/intltechventures/dot.files/
 
@@ -22,6 +23,12 @@
 - https://www.thomas-krenn.com/en/wiki/Vi_editor_tips_and_tricks
 
 - https://vimdoc.sourceforge.net/htmldoc/
+
+
+## Community Forums
+
+- https://stackoverflow.com/search?q=vim
+
 
 
 ## Release Notes
@@ -150,6 +157,10 @@
 - Replace text
   + http://vim.wikia.com/wiki/Search_and_replace
     * ```:%/original_text/new_text/```
+  + https://stackoverflow.com/questions/19994922/find-and-replace-strings-in-vim-on-multiple-lines
+    * ```%s/foo/bar/g``` - global search and replace, within the file 
+    * ```6,10s/foo/bar/g``` - search for foo and replace with bar, scoped for just lines 6 to 10.
+    * ```for range in split('6,10 14,18')| exe range 's/<search_string>/<replace_string>/g'``` - across multiple line number ranges
 
 
 ## Language Plugins
