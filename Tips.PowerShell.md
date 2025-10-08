@@ -108,6 +108,22 @@
   + ```powercfg /hibernate on```
   + ```powercfg /hibernate off```
 
+
+- Explore a command...
+  + ```<command> | Get-Member```
+  + Will return: 
+    * Properties
+    * Methods
+    * AliasProperty
+    * Event
+    * ScriptMethod
+    * ...
+  + __Examples__: 
+    * ```get-localuser | Get-Member```
+  + Also see:
+    * ```Get-Command```
+    * ```Get-Help```
+    * ```Get-Member```
   
 
 ##  PowerShell for the SQL DBA
