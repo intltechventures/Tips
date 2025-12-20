@@ -147,28 +147,28 @@
 
 ## Example <type> values:
 
-|Type | Definition|
-|-----|-----------|
-|feat 		|(new feature for the user, not a new feature for build script)|
-|fix  		|(bug fix for the user, not a fix to a build script)|
-|docs 		|(changes to the documentation)|
-|style 		|(formatting, missing semi colons, etc; no production code change)|
+|Type       | Definition|
+|-----------|-----------|
+|feat 	  	|(new feature for the user, not a new feature for build script)|
+|fix  	  	|(bug fix for the user, not a fix to a build script)|
+|docs 		  |(changes to the documentation)|
+|style 		  |(formatting, missing semi colons, etc; no production code change)|
 |refactor 	|(refactoring production code, eg. renaming a variable)|
-|test 		|(adding missing tests, refactoring tests; no production code change)|
-|chore 		|(updating grunt tasks etc; no production code change)|
+|test 		  |(adding missing tests, refactoring tests; no production code change)|
+|chore 		  |(updating grunt tasks etc; no production code change)|
 
 
 ## Example Subject Line Standard Terminology
 
 |First Word | Meaning|
 |-----------|--------|
-|Add 		| Create a capability e.g. feature, test, dependency.|
-|Cut 		| Remove a capability e.g. feature, test, dependency.|
-|Fix 		| Fix an issue e.g. bug, typo, accident, misstatement.|
-|Bump 		| Increase the version of something e.g. dependency.|
-|Make 		| Change the build process, or tooling, or infra.|
-|Start 		| Begin doing something; e.g. create a feature flag.|
-|Stop 		| End doing something; e.g. remove a feature flag.|
+|Add 		    | Create a capability e.g. feature, test, dependency.|
+|Cut 		    | Remove a capability e.g. feature, test, dependency.|
+|Fix 		    | Fix an issue e.g. bug, typo, accident, misstatement.|
+|Bump 		  | Increase the version of something e.g. dependency.|
+|Make 		  | Change the build process, or tooling, or infra.|
+|Start 		  | Begin doing something; e.g. create a feature flag.|
+|Stop 		  | End doing something; e.g. remove a feature flag.|
 |Refactor   | A code change that MUST be just a refactoring.|
 |Reformat 	| Refactor of formatting, e.g. omit whitespace.|
 |Optimize 	| Refactor of performance, e.g. speed up code.|
@@ -248,7 +248,6 @@
   + ```git config core.longpaths true```
 
 
-
 - Determine size of a git repository:
   + ```$ git count-objects -vH```
   + Example output:
@@ -260,6 +259,32 @@
     * ```prune-packable: 0```
     * ```garbage: 0```
     * ```size-garbage: 0 bytes```
+
+
+- Branch Management:
+  + Show list of branches
+    * ```git branch```
+  + Show current branch:
+    * ```git branch --show-current```
+  + Switch branch:
+    * ```git checkout master```
+    * or
+    * ```git checkout main```
+  + Rename your local master branch to main:
+    * ```git branch -m master main```
+  + Push the new local main branch to the remote repository (if it doesn't already exist from the GitHub setting change) and set it as the upstream:
+    * ```git push -u origin main```
+  + Ensure your local repository's HEAD is pointing to the new default remote branch:
+    * ```git fetch origin```
+    * ```git remote set-head origin -a```
+    * Or, specifically set the upstream for your local main branch:
+      * ```git branch -u origin/main main```
+  + (Optional) Delete the Old master Branch:
+    * ```git push origin --delete master```
+  + Any other developers working on the repository will need to update their local clones by running these commands in their local repositories:
+    * ```git fetch --prune origin```
+    * ```git checkout main``` (or git switch main for newer Git versions)
+    * ```git branch -u origin/main main```
 
 
 - Determine URL that a local Git repository was originally cloned from
