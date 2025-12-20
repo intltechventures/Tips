@@ -3,7 +3,20 @@
 
 
 ## Documentation
+
+- https://aka.ms/PSWindows
+  + Check PowerShell versions installed: 
+    * ```$PSVersionTable.PSVersion```
+  + Install PowerShell on Windows
+    * https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows?view=powershell-7.5
+      * List Available Versions: 
+        * ```winget search --id Microsoft.PowerShell```
+      * Install by version name: 
+        * ```winget install --id Microsoft.PowerShell --source winget```
+
+
 - https://docs.microsoft.com/en-us/powershell/
+
 
 - https://devblogs.microsoft.com/powershell/
 
