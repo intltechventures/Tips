@@ -13,6 +13,8 @@
         * ```winget search --id Microsoft.PowerShell```
       * Install by version name: 
         * ```winget install --id Microsoft.PowerShell --source winget```
+  + See Known Limitations:
+    * https://learn.microsoft.com/en-us/powershell/scripting/install/install-powershell-on-windows?view=powershell-7.5#known-limitations
 
 
 - https://docs.microsoft.com/en-us/powershell/
