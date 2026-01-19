@@ -100,6 +100,18 @@
 
 
 
+## Windows Shutdown command:
+
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/shutdown
+  + ```shutdown /s /t 0```
+    * ```/s``` 	Shuts down the computer.
+    * ```/t <xxx>``` Sets the time-out period before shutdown to xxx seconds.
+  + NOTE: Windows 11 23H2 might fail to power down properly after installing the latest security updates.
+    * https://learn.microsoft.com/en-us/windows/release-health/status-windows-11-23h2#devices-with-secure-launch-might-fail-to-shut-down-or-hibernate
+    * https://www.theregister.com/2026/01/16/patch_tuesday_secure_launch_bug_no_shutdown/
+
+
+
 ## Increase Available Disk Space
 - https://support.microsoft.com/en-us/help/12425/windows-10-free-up-drive-space
 - https://www.windowscentral.com/best-ways-to-free-hard-drive-space-windows-10
