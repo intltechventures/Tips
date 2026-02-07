@@ -450,6 +450,8 @@
 - http://sites.psu.edu/symbolcodes/windows/codealt/
 - https://support.office.com/en-us/article/Keyboard-shortcuts-for-international-characters-108fa0c1-fb8e-4aae-9db1-d60407d13c35
 
+- Em dash 
+  + ```Win+shift+dash```
 
 
 ## Device Manager
