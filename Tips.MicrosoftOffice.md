@@ -50,6 +50,18 @@
   + [New Perspectives Microsoft Office 365 & Word 2016: Comprehensive 1st Edition](https://www.amazon.com/Perspectives-Microsoft-Office-Word-2016/dp/1305880978)
 
 
+## Learning
+
+- https://learn.microsoft.com/en-us/microsoft-365-apps/
+
+
+
+
+## Troubleshooting Guides
+
+- https://learn.microsoft.com/en-us/troubleshoot/microsoft-365-apps/office-client-welcome
+
+
 ## Quick Tutorials
 
 - https://lawyerist.com/technology/microsoft-office/word/
