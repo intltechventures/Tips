@@ -1,6 +1,19 @@
 
 # Windows Security Tips
 
+## Windows Defender 
+
+- How-To: Play a sound when Microsoft Defender detects a threat, 
+  + use Windows Task Scheduler to trigger a sound file when specific Event Viewer logs are created. Set up a task for event ID 1116 (malware detected) or 1117 (action taken) from the Microsoft-Windows-Windows Defender/Operational log to trigger a custom audio alert.
+    * Locate a Sound: Choose a .wav file you want to play.
+    * Open Event Viewer: Search for "Event Viewer" in the Start Menu.
+    * Find the Trigger Event: Navigate to Applications and Services Logs > Microsoft > Windows > Windows Defender > Operational.
+    * Create a Task: Find an existing detection (Event ID 1116 or 1117), right-click it, and select Attach Task to This Event....
+    * Configure Action: In the wizard, select Start a program.
+    * Set Sound: Under "Program/script," type ```powershell.exe``` and in "Add arguments," use:
+      * ```-c (New-Object Media.SoundPlayer 'C:\path\to\your\sound.wav').PlaySync();```
+    * Finish: Complete the Wizard
+
 
 ## Windows Device Protection 
 
