@@ -242,6 +242,28 @@
 
 
 
+# Performance Improvement Suggestions
+
+- Run Garbage Collection:
+  + ```git gc --aggressive --prune=now```
+  + re: to pack loose objects and optimize the repository database.
+
+
+- Enable FSMonitor:
+  + ```git config core.fsmonitor true```
+  + re: For large repositories, enable Git's built-in file system monitor to speed up change detection
+
+
+- Use Commit Graphs:
+  + ```git config core.commitGraph true```
+  + re: Speed up graph traversal by enabling commit graphs
+
+
+- Ignore Build Artifacts:
+  + Ensure your .gitignore file includes all build folders and temporary files so Git doesn't waste time enumerating them.
+
+
+
 # Git Command Examples   
 
 - Configure Git on Windows for long path
