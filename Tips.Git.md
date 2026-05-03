@@ -263,6 +263,16 @@
   + Ensure your .gitignore file includes all build folders and temporary files so Git doesn't waste time enumerating them.
 
 
+- Use manyFiles Optimizations:
+  + ```git config feature.manyFiles true```
+  + re: a built-in feature flag that enables a bundle of optimizations for repositories with thousands of files.
+
+
+- Enable Untracked Cache:
+  + ```git config core.untrackedCache true```
+  + re: Caches results of untracked file searches.
+
+
 
 # Git Command Examples   
 
