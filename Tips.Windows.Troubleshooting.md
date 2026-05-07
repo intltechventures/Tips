@@ -7,7 +7,23 @@
   + https://support.microsoft.com/en-us/topic/error-codes-in-device-manager-in-windows-524e9e89-4dee-8883-0afa-6bca0456324e
 
 
-## Commands:
+
+### Recovery
+
+- Recovery options in Windows
+  + https://support.microsoft.com/en-us/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5
+
+
+### Bitlocker
+
+- https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/manage-bde
+
+- Bypass BitLocker When Recovery Key Loop Fails in Windows 
+  + https://www.dell.com/support/kbdoc/en-us/000130549/how-to-unlock-bitlocker-when-it-stops-accepting-recovery-keys
+
+
+
+## Useful Commands:
 
 - System File Checker
   + Open a Windows Elevated Command prompt
