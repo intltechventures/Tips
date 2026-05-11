@@ -128,24 +128,40 @@
 ## Commit Message Standards
 
 - https://www.conventionalcommits.org/
+  + https://www.conventionalcommits.org/en/v1.0.0/
+  + https://github.com/conventional-changelog/commitlint/tree/master/%40commitlint/config-conventional
+
 
 - [Angular Commit Message Standard](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
 
+
 - http://karma-runner.github.io/1.0/dev/git-commit-msg.html
 
+
 - https://gist.github.com/stephenparish/9941e89d80e2bc58a153
+
 
 - https://chris.beams.io/posts/git-commit/
 
 
-## Commit Message Format
+- https://dev.to/noelworden/improving-your-commit-message-with-the-50-72-rule-3g79
 
-- ```<type>(<scope>): <subject>```
+
+
+
+### Commit Message Format
+
+- ```<type>(<scope>): <subject>``` 
+  + Short summary of the change (max 50 chars)
+
 - ```<body>```
+  + Detailed explanation of "what" and "why" (wrapped at 72 chars)
+
 - ```<footer>```
+  + Links to issues or breaking changes (optional)
 
 
-## Example <type> values:
+#### Example <type> values:
 
 |Type       | Definition|
 |-----------|-----------|
@@ -158,7 +174,8 @@
 |chore 		  |(updating grunt tasks etc; no production code change)|
 
 
-## Example Subject Line Standard Terminology
+### Example Subject Line Standard Terminology
+
 
 |First Word | Meaning|
 |-----------|--------|
@@ -169,10 +186,24 @@
 |Make 		  | Change the build process, or tooling, or infra.|
 |Start 		  | Begin doing something; e.g. create a feature flag.|
 |Stop 		  | End doing something; e.g. remove a feature flag.|
+|Update     | Update something.|
 |Refactor   | A code change that MUST be just a refactoring.|
 |Reformat 	| Refactor of formatting, e.g. omit whitespace.|
+|Remove     | Remove something.|
 |Optimize 	| Refactor of performance, e.g. speed up code.|
 |Document 	| Refactor of documentation, e.g. help files.|
+
+
+### Example commit message
+```
+feat(auth): add password hashing with Argon2
+
+To improve security, we are replacing MD5 with Argon2 hashing.
+This change updates the User model and adds the necessary 
+dependencies to the project.
+
+Closes #123
+```
 
 
 
