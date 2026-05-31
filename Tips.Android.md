@@ -6,17 +6,31 @@
 - The Linux Kernel documentation
   + https://docs.kernel.org/
 
+
 - The Linux kernel user’s and administrator’s guide
   + https://docs.kernel.org/admin-guide/
 
 
 ## Android OS 
 
+- Android Open Source Project
+  + https://source.android.com/
+
+
 - Android OS Documentation
   + https://source.android.com/docs/
 
+
 - Explore the Android OS stack
   + https://source.android.com/docs/setup/about
+
+
+- Android Release Notes 
+  + https://source.android.com/docs/whatsnew/release-notes
+
+
+- Download the Android source
+  + https://source.android.com/docs/setup/download
 
 
 
