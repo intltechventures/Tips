@@ -8,6 +8,20 @@
 - https://developer.android.com/studio/releases/platform-tools
 
 
+## Developer Mode
+
+- Galaxy S8/S8+/S9/S9+: How to Enable/Disable Developer Options Mode
+  + https://www.youtube.com/watch?v=B3SZut_kWXk
+
+
+## OS Upgrades
+
+- Install Android 16 LineageOS 23 ON Galaxy S9 Plus
+  + https://www.youtube.com/watch?v=BhVqr-kcbxY
+    * Unofficial Port
+    * Must Unlock Bootloader (turn ON OEM Unlocking)
+
+
 ## Useful Apps
 
 - http://rk4an.github.io/psiandroid/
