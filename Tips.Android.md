@@ -1,6 +1,24 @@
 
 # Android Tips 
 
+## Linux Kernel
+
+- The Linux Kernel documentation
+  + https://docs.kernel.org/
+
+- The Linux kernel user’s and administrator’s guide
+  + https://docs.kernel.org/admin-guide/
+
+
+## Android OS 
+
+- Android OS Documentation
+  + https://source.android.com/docs/
+
+- Explore the Android OS stack
+  + https://source.android.com/docs/setup/about
+
+
 
 ## Android SDK
 - https://developer.android.com/
