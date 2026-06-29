@@ -25,3 +25,14 @@
 - https://guides.github.com/features/mastering-markdown/
 
 
+
+## Syntax Reminders 
+
+- Images 
+  + ```![Alt text for screen readers](https://example.com)```
+
+
+- Tables
+  + ```| Column Name #1  | Column Name #2  |```
+  + ```|-----------------|-----------------|```
+  + ``` <row data        | row data         ```
