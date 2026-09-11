@@ -105,6 +105,16 @@ https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/reduce-the
 
 ## DOS Shell Script Tips
 
+- for loop, USEBACKQ
+  + https://ss64.com/nt/for_f.html
+  + Specifies to execute a back-quoted string as a command, and a single-quoted string as a literal string command. Also, allows file names in Set to be enclosed in quotation marks.
+  + This option is useful when dealing with a filenameset that is a long filename containing spaces, it allows you to put double quotes around the filename.
+  + Because double quotes are used to indicate a filename, it then uses single quotes instead of double quotes to indicate a text string and backquotes for a command to process. The backquote character ` is just below the ESC key on most keyboards.
+  + Filenames which don’t contan spaces can still be referenced without using quotes.
+  + In the Windows Command Prompt (cmd.exe), usebackq is an optional modifier used exclusively within the FOR /F loop syntax. It changes how the loop interprets different types of quotation marks, allowing you to pass commands using backticks, wrap file names with spaces in double quotes, or process literal strings using single quotes
+  + By default, a standard FOR /F loop interprets its contents in specific ways. Adding usebackq alters that default "quoting style":
+
+
 - Special Characters  
   + https://stackoverflow.com/questions/7308586/using-batch-echo-with-special-characters
     * Option: Escape with ```^``` before EACH special character
@@ -114,6 +124,8 @@ https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/reduce-the
       * ```(```
       * ``` echo !line!```
       * ```) > myfile.xml```
+
+
 
 ## Advanced Batch Scripting Examples
 
