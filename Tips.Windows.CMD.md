@@ -50,6 +50,7 @@ https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/reduce-the
   + ```powercfg.exe /hibernate off```
   + ```powercfg.exe /hibernate on```
 
+
 ## ipconfig commands
 - display DNS cache:
   + ```ipconfig /displaydns```
@@ -109,8 +110,6 @@ https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/reduce-the
   + Click the down-arrow icon in the tab bar and select Settings
   + On the Startup tab, locate Default profile.
   + Change the dropdown selection from Windows PowerShell to Command Prompt. 
-
-
 
 
 
