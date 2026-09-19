@@ -102,6 +102,17 @@ https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/reduce-the
   + ```JOB_END```
 
 
+## Override Default Powershell 
+
+- If Windows automatically forces PowerShell to open whenever you try to launch a command line or right-click a folder to "Open in Terminal", you can change the default profile:
+  + Open your current terminal window.
+  + Click the down-arrow icon in the tab bar and select Settings
+  + On the Startup tab, locate Default profile.
+  + Change the dropdown selection from Windows PowerShell to Command Prompt. 
+
+
+
+
 
 ## DOS Shell Script Tips
 
