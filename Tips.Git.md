@@ -377,8 +377,8 @@ Closes #123
   + ``` git reset <file>```
 
 
-- To Amend a Commit Message
-  + ```Git commit --amend```
+- **To Amend a Commit Message**
+  + ```Git commit --amend -m "Your new commit message"```
 
 
 - TO backdate commits
