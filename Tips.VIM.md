@@ -80,6 +80,12 @@
 
 ### Navigation
 
+- Goto Next/Previous Search term
+  + In Vim, you press ```n``` to search for the next occurrence of your active search pattern.
+  + ```n```: Moves forward to the next occurrence (in the same direction as your initial search)
+  + ```N```: Moves backward to the previous occurrence (in the reverse direction)
+
+
 - Navigating
   + Move to top of screen (Higher)
     * ```shft-h```
